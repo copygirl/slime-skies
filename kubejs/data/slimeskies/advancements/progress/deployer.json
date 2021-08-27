@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/precision_mechanism",
+  "display": {
+    "title": "Automated Poking",
+    "description": "",
+    "icon": { "item": "create:deployer" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "create:deployer" } ] }
+    }
+  }
+}

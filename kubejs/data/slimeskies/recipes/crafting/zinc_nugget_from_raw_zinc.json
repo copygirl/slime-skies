@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ { "item": "kubejs:raw_zinc" } ],
+  "result": { "item": "create:zinc_nugget", "count": 3 }
+}

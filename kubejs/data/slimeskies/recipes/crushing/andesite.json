@@ -1,0 +1,10 @@
+{
+  "type": "create:crushing",
+  "ingredients": [ { "item": "minecraft:andesite" } ],
+  "results": [
+    { "item": "minecraft:gravel" },
+    { "item": "create:zinc_nugget" },
+    { "item": "create:zinc_nugget", "chance": 0.3 }
+  ],
+  "processingTime": 250
+}

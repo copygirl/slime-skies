@@ -1,0 +1,14 @@
+name = "Shutup Experimental Settings!"
+filename = "shutupexperimentalsettings-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3188/120/shutupexperimentalsettings-1.0.3.jar"
+hash-format = "murmur2"
+hash = "577234596"
+
+[update]
+[update.curseforge]
+file-id = 3188120
+project-id = 407174
+release-channel = "beta"

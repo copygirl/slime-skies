@@ -1,0 +1,10 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    { "item": "minecraft:stone" },
+    { "tag": "forge:nuggets/copper", "count": 5 },
+    { "fluid": "minecraft:lava", "amount": 250 }
+  ],
+  "heatRequirement": "superheated",
+  "results": [ { "item": "cavesandcliffs:copper_ore" } ]
+}

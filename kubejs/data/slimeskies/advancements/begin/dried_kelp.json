@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:begin/charcoal",
+  "display": {
+    "title": "More Than Food",
+    "description": "Cook some tasty kelp on the campfire.",
+    "icon": { "item": "minecraft:dried_kelp" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "minecraft:dried_kelp" } ] }
+    }
+  }
+}

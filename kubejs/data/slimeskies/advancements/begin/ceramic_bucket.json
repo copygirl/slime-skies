@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:begin/clay",
+  "display": {
+    "title": "Move that water!",
+    "description": "Vanilla item transport for basic automation.",
+    "icon": { "item": "ceramicbucket:ceramic_bucket" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "ceramicbucket:ceramic_bucket" } ] }
+    }
+  }
+}

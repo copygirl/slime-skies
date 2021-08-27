@@ -1,0 +1,14 @@
+name = "KubeJS (Forge)"
+filename = "kubejs-forge-1605.3.15-build.96.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3438/569/kubejs-forge-1605.3.15-build.96.jar"
+hash-format = "murmur2"
+hash = "2790275625"
+
+[update]
+[update.curseforge]
+file-id = 3438569
+project-id = 238086
+release-channel = "beta"

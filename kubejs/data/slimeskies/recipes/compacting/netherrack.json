@@ -1,0 +1,8 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "tag": "forge:cobblestone" },
+    { "fluid": "minecraft:lava", "amount": 50 }
+  ],
+  "results": [ { "item": "minecraft:netherrack" } ]
+}

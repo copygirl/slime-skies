@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:begin/trees",
+  "display": {
+    "title": "Andesite Age",
+    "description": "Make a pickaxe ... this time using andesite!",
+    "icon": { "item": "minecraft:stone_pickaxe" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "minecraft:stone_pickaxe" } ] }
+    }
+  }
+}

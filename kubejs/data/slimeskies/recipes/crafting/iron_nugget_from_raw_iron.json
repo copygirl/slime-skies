@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ { "item": "cavesandcliffs:raw_iron" } ],
+  "result": { "item": "minecraft:iron_nugget", "count": 3 }
+}

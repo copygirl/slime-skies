@@ -1,0 +1,14 @@
+{
+  "parent": "slimeskies:begin/mechanical_press",
+  "display": {
+    "title": "Renewable Gravel",
+    "description": "Build a basin and compact some flint.",
+    "icon": { "item": "minecraft:gravel" },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": { "trigger": "minecraft:impossible" }
+  }
+}

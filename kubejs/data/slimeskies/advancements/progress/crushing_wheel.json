@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/brass_ingot",
+  "display": {
+    "title": "Improved Processing",
+    "description": "Watch your step!",
+    "icon": { "item": "create:crushing_wheel" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "create:crushing_wheel" } ] }
+    }
+  }
+}

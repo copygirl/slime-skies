@@ -1,0 +1,9 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "tag": "minecraft:sand" },
+    { "fluid": "create:chocolate", "amount": 250 }
+  ],
+  "heatRequirement": "heated",
+  "results": [ { "item": "minecraft:soul_sand" } ]
+}

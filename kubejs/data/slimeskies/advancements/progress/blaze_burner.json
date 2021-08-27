@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/mechanical_mixer",
+  "display": {
+    "title": "Blaze Kidnapping",
+    "description": "Is it just me, or is it getting hot in here?",
+    "icon": { "item": "create:blaze_burner" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "create:blaze_burner" } ] }
+    }
+  }
+}

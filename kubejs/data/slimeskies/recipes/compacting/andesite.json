@@ -1,0 +1,9 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:gravel" },
+    { "item": "minecraft:clay" },
+    { "fluid": "minecraft:water", "amount": 250 }
+  ],
+  "results": [ { "item": "minecraft:andesite", "count": 2 } ]
+}
