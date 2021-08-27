@@ -1,0 +1,5 @@
+{
+  "type": "create:pressing",
+  "ingredients": [ { "tag": "forge:ingots/zinc" } ],
+  "results": [ { "item": "kubejs:zinc_sheet" } ]
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/water_wheel",
+  "display": {
+    "title": "Wind Power!",
+    "description": "Unfortunately, there is no Flower Power.",
+    "icon": { "item": "create:windmill_bearing" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:windmill",
+      "conditions": {  }
+    }
+  }
+}

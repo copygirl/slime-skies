@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/ore",
+  "display": {
+    "title": "Smelting Power!",
+    "description": "Finally, a use for all that wood and charcoal!",
+    "icon": { "item": "create:flywheel" },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:flywheel",
+      "conditions": {  }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/iron_ingot",
+  "display": {
+    "title": "Mix Things Up",
+    "description": "",
+    "icon": { "item": "create:mechanical_mixer" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:placed_block",
+      "conditions": { "block": "create:mechanical_mixer" }
+    }
+  }
+}

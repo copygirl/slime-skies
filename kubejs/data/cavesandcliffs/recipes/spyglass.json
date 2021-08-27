@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G",
+    "I",
+    "I"
+  ],
+  "key": {
+    "G": { "tag": "forge:glass/colorless" },
+    "I": { "tag": "forge:ingots/copper" }
+  },
+  "result": { "item": "cavesandcliffs:spyglass" }
+}

@@ -1,0 +1,14 @@
+name = "Toast Control"
+filename = "Toast-Control-1.16.4-4.3.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3172/881/Toast-Control-1.16.4-4.3.1.jar"
+hash-format = "murmur2"
+hash = "2311015693"
+
+[update]
+[update.curseforge]
+file-id = 3172881
+project-id = 271740
+release-channel = "beta"

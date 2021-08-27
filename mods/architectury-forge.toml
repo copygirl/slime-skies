@@ -1,0 +1,14 @@
+name = "Architectury API (Forge)"
+filename = "architectury-1.21.31-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3436/832/architectury-1.21.31-forge.jar"
+hash-format = "murmur2"
+hash = "957102365"
+
+[update]
+[update.curseforge]
+file-id = 3436832
+project-id = 419699
+release-channel = "beta"

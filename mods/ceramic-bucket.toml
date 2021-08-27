@@ -1,0 +1,14 @@
+name = "Ceramic Bucket"
+filename = "ceramicbucket-1.16.5-2.7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3432/828/ceramicbucket-1.16.5-2.7.0.1.jar"
+hash-format = "murmur2"
+hash = "3349162691"
+
+[update]
+[update.curseforge]
+file-id = 3432828
+project-id = 363799
+release-channel = "beta"

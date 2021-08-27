@@ -1,0 +1,14 @@
+name = "TwerkItMeal - Twerk To Grow All The Things"
+filename = "TwerkItMeal-1.3.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3424/72/TwerkItMeal-1.3.9.jar"
+hash-format = "murmur2"
+hash = "1680536991"
+
+[update]
+[update.curseforge]
+file-id = 3424072
+project-id = 414640
+release-channel = "beta"

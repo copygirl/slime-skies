@@ -1,0 +1,4 @@
+/.git/**
+/.upload/**
+/.vscode/**
+/.gitignore

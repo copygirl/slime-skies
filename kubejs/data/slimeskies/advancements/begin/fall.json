@@ -1,0 +1,29 @@
+{
+  "parent": "slimeskies:begin/root",
+  "display": {
+    "title": "The void is nothing to me!",
+    "description": "Wait, there is another island down there?",
+    "icon": { "item": "quark:soul_bead" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": { "y": { "min": 0, "max": 24 } }
+      }
+    },
+    "1": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": { "y": { "min": 232, "max": 256 } }
+      }
+    }
+  },
+  "requirements": [ [ "0", "1" ] ]
+}

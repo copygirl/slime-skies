@@ -1,0 +1,14 @@
+{
+  "parent": "slimeskies:begin/gravel",
+  "display": {
+    "title": "Renewable Dirt",
+    "description": "Craft coarse dirt and till it - expand your island!",
+    "icon": { "item": "minecraft:coarse_dirt" },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": { "trigger": "minecraft:impossible" }
+  }
+}

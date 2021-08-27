@@ -1,0 +1,14 @@
+name = "CaveBiomeAPI [Forge]"
+filename = "cavebiomeapi-1.16.5-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3434/775/cavebiomeapi-1.16.5-1.3.5.jar"
+hash-format = "murmur2"
+hash = "2310114007"
+
+[update]
+[update.curseforge]
+file-id = 3434775
+project-id = 441706
+release-channel = "beta"

@@ -1,0 +1,8 @@
+{
+  "type": "create:splashing",
+  "ingredients": [ { "item": "create:limesand" } ],
+  "results": [
+    { "item": "create:zinc_nugget", "count": 2, "chance": 0.2 },
+    { "item": "create:zinc_nugget", "chance": 0.1 }
+  ]
+}

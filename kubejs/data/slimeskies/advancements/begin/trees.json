@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:begin/root",
+  "display": {
+    "title": "Wacky Trees",
+    "description": "Grow trees and other plants quickly by tapping sneak repeatedly.",
+    "icon": { "item": "dynamictrees:oak_seed" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "dynamictrees:oak_seed" } ] }
+    }
+  }
+}

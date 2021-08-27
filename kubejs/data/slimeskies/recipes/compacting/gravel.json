@@ -1,0 +1,10 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:flint" },
+    { "item": "minecraft:flint" },
+    { "item": "minecraft:flint" },
+    { "item": "minecraft:flint" }
+  ],
+  "results": [ { "item": "minecraft:gravel", "count": 6 } ]
+}

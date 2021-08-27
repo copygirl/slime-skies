@@ -1,0 +1,12 @@
+name = "Slime Skies"
+author = "copygirl"
+version = "0.3.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6954e177faf23eee93788d53ba378eb2a7cea01eee464e4ca87854348ba3a3e"
+
+[versions]
+forge = "36.2.2"
+minecraft = "1.16.5"

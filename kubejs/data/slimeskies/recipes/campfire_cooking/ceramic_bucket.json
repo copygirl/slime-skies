@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": { "item": "ceramicbucket:unfired_clay_bucket" },
+  "result": "ceramicbucket:ceramic_bucket",
+  "experience": 0.0,
+  "cookingtime": 900
+}

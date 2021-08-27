@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:begin/encased_fan",
+  "display": {
+    "title": "Scare Clay out of Sand",
+    "description": "Blow some water over that sand to get clay.",
+    "icon": { "item": "minecraft:clay_ball" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "minecraft:clay_ball" } ] }
+    }
+  }
+}

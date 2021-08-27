@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/deployer",
+  "display": {
+    "title": "Smart Moving",
+    "description": "",
+    "icon": { "item": "create:mechanical_arm" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:placed_block",
+      "conditions": { "block": "create:mechanical_arm" }
+    }
+  }
+}

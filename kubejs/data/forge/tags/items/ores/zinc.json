@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "kubejs:zinc_ore",
+    "kubejs:raw_zinc"
+  ]
+}

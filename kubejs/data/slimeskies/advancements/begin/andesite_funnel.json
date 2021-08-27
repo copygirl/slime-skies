@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:begin/andesite_alloy",
+  "display": {
+    "title": "The Hopper Alternative",
+    "description": "Kind of like inventory-less hoppers but also better?",
+    "icon": { "item": "create:andesite_funnel" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "create:andesite_funnel" } ] }
+    }
+  }
+}

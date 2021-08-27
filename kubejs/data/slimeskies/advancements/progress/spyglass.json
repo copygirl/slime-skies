@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/copper_ingot",
+  "display": {
+    "title": "Take A Peek",
+    "description": "What do those far-away islands offer?",
+    "icon": { "item": "cavesandcliffs:spyglass" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "cavesandcliffs:spyglass" } ] }
+    }
+  }
+}

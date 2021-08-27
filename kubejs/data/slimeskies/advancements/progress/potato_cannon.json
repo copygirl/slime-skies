@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/extendo_grip",
+  "display": {
+    "title": "Shoot them potatoes!",
+    "description": "Arrows are so last century.",
+    "icon": { "item": "create:potato_cannon" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "create:potato_cannon" } ] }
+    }
+  }
+}

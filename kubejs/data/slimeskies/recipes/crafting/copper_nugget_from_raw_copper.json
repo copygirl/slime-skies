@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ { "item": "cavesandcliffs:raw_copper" } ],
+  "result": { "item": "create:copper_nugget", "count": 3 }
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/precision_mechanism",
+  "display": {
+    "title": "Reach To The Stars",
+    "description": "",
+    "icon": { "item": "create:extendo_grip" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "item": "create:extendo_grip" } ] }
+    }
+  }
+}

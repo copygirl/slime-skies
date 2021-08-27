@@ -1,0 +1,17 @@
+{
+  "parent": "slimeskies:progress/root",
+  "display": {
+    "title": "Water Power!",
+    "description": "Watch a water wheel generate power.",
+    "icon": { "item": "create:water_wheel" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "create:water_wheel",
+      "conditions": {  }
+    }
+  }
+}

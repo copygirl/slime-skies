@@ -1,0 +1,10 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "tag": "forge:cobblestone" },
+    { "item": "minecraft:charcoal" },
+    { "item": "minecraft:charcoal" }
+  ],
+  "heatRequirement": "heated",
+  "results": [ { "item": "minecraft:blackstone" } ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:dirt" },
+    { "item": "create:limesand" },
+    { "fluid": "minecraft:water", "amount": 250 }
+  ],
+  "results": [ { "item": "minecraft:clay" } ]
+}
