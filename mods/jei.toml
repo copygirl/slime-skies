@@ -1,6 +1,6 @@
 name = "Just Enough Items (JEI)"
 filename = "jei-1.16.5-7.7.1.121.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3438/494/jei-1.16.5-7.7.1.121.jar"
