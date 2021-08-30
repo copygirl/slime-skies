@@ -13,6 +13,10 @@ file = "config/betteradvancements-client.toml"
 hash = "43dbe4cd9ba84fcd37695de29be9638e0cc35ef5f10be898dcc2fedc2730740b"
 
 [[files]]
+file = "config/cavesandcliffs-common.toml"
+hash = "4798abca22cfd1f7d4f1f89242373fd00f7932a61ef4e7315a31a66af3ee749d"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "66c0478c4dbab4ae46aabe73fd7c2400bf462b4ca057a75ffe50ee5eb7f855d6"
 
