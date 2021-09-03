@@ -81,6 +81,10 @@ file = "docs/screenshot.png"
 hash = "08cdb5e6668518917a27571055d7ea37c0272e7c5985977bf442339219e1ad2c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/raw_zinc_block.png"
+hash = "976c873ae4a877a140218e3494c95529a4c4aff10eb3d2df07de6e8f202ded9e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_ore.png"
 hash = "e0f56156726b8de1d6142d137c3ec0b32642579365f3f33626a31732370c6c2a"
 
@@ -417,6 +421,14 @@ file = "kubejs/data/slimeskies/recipes/crafting/iron_nugget_from_raw_iron.json"
 hash = "a618c2953207ab972dce3887d4952402ce6a64862153b5b26c23aefc71ffb3d1"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/crafting/raw_zinc_block.json"
+hash = "92965584aba242360c968fd0e3cc1495a4aec76945cb8a88d190dbdf160b74ea"
+
+[[files]]
+file = "kubejs/data/slimeskies/recipes/crafting/raw_zinc_from_block.json"
+hash = "60ad0402dd1bc9159ea266290e600643c574e1b63f2c4a869e68706458e4a1a8"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/zinc_nugget_from_raw_zinc.json"
 hash = "ecd7395f55cf5c02017d642e330044167ee4c266c9cf0054b31fd0bd1a692091"
 
@@ -470,7 +482,7 @@ hash = "ac2188bbb53203063b8ced062d26862933662c336f35479717785f59c0741638"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
-hash = "c91eb116c80ca6525289430bc19c40e432ee64e55583df9d563bc573984b1a62"
+hash = "a4ed9ca7e6127fa3e81588b17992aa7580a274f0eb86d231d212a527352ecebc"
 
 [[files]]
 file = "mods/appleskin.toml"

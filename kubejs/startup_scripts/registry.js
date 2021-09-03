@@ -10,5 +10,7 @@ onEvent("block.registry", event => {
      .material("stone").hardness(3.0).resistance(3.0)
      .harvestTool("pickaxe", 1).requiresTool(true);
 
-  // TODO: Raw Zinc Block
+  event.create("raw_zinc_block").displayName("Block of Raw Zinc")
+    .material("stone").hardness(5.0).resistance(6.0)
+    .harvestTool("pickaxe", 1).requiresTool(true);
 });
