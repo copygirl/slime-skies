@@ -93,7 +93,7 @@
 #Miscellaneous Settings
 [misc]
 	#If enabled, dirt bucket recipes will be automatically generated.
-	generateDirtBucketRecipes = true
+	generateDirtBucketRecipes = false
 
 #Debug Settings
 [debug]

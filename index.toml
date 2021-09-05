@@ -70,7 +70,7 @@ hash = "010b84b9a2d925b559e168892d9973bf71941a81e0fe251b6f94c827dbca35a4"
 
 [[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
-hash = "addb0ebacbaf89f6e884a8e2cfda5a39b22e7f298450b7c488181055231567d0"
+hash = "fcc01494785e9d98d75cb4c224f9ac082f1d971e667cb6f324fa4a5253d28449"
 
 [[files]]
 file = "docs/screenshot.png"
@@ -462,7 +462,7 @@ hash = "24034214e79e81cefe94ba9f6c68d62771b219ca1d9b20a194aa01ef7c1fea02"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_tweaks.js"
-hash = "d25d665f4a177b55385f8514bf9d1f8dc945f4e25166fa5b765a593a83ea4cdf"
+hash = "3c205694ed26083e100bf9e82271febc7850e1e2ce5b4aa2b0f83871c1b5e969"
 
 [[files]]
 file = "kubejs/server_scripts/replace_copper_recipes.js"
