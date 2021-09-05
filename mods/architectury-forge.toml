@@ -1,14 +1,14 @@
 name = "Architectury API (Forge)"
-filename = "architectury-1.21.31-forge.jar"
+filename = "architectury-1.22.32-forge.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3436/832/architectury-1.21.31-forge.jar"
+url = "https://edge.forgecdn.net/files/3442/690/architectury-1.22.32-forge.jar"
 hash-format = "murmur2"
-hash = "957102365"
+hash = "154437993"
 
 [update]
 [update.curseforge]
-file-id = 3436832
+file-id = 3442690
 project-id = 419699
 release-channel = "beta"

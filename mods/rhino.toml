@@ -1,14 +1,14 @@
 name = "Rhino"
-filename = "rhino-1605.1.2-build.48.jar"
+filename = "rhino-forge-1605.1.3-build.52.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3427/389/rhino-1605.1.2-build.48.jar"
+url = "https://edge.forgecdn.net/files/3445/498/rhino-forge-1605.1.3-build.52.jar"
 hash-format = "murmur2"
-hash = "66815271"
+hash = "1049897572"
 
 [update]
 [update.curseforge]
-file-id = 3427389
+file-id = 3445498
 project-id = 416294
 release-channel = "beta"

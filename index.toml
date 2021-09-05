@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "fdeb3a90e2de321269ae7768fb0921e1b49daf8f83803702fd50a085125d3be2"
+hash = "e83d91f3b761ad6db58e4b491b8d075018b069ae2042c4e91b48feacc669cf33"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "f565081d0e3724cbdc18560f23a253098079e9d92f7e658761a3257ff2863b67"
-
-[[files]]
-file = "config/betteradvancements-client.toml"
-hash = "43dbe4cd9ba84fcd37695de29be9638e0cc35ef5f10be898dcc2fedc2730740b"
 
 [[files]]
 file = "config/cavesandcliffs-common.toml"
@@ -491,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "9fe5c68b28c067238994839fdb4aad01bca25cd229a23f0bb9c7d218840b030a"
+hash = "6ea0538e4af05279bd88256ee5baf4b3c77400e46b1358e95f04242a1cd9514e"
 metafile = true
 
 [[files]]
@@ -501,12 +497,12 @@ metafile = true
 
 [[files]]
 file = "mods/cavebiomeapi.toml"
-hash = "706623a56c872ca5b256c5e35da4224c8e1f0b6dac524660259ba5b8c608144b"
+hash = "b3e5e5dc5b64a4dd8ac098611b7ddd7a8ad5b25352b4bee3ddb6f670adf4dca5"
 metafile = true
 
 [[files]]
 file = "mods/caves-and-cliffs-backport.toml"
-hash = "d7365929fb862ad8cc038e926cd4b29f01f4f1dbee3d5a48e9ac37948d02ee58"
+hash = "cda15531d8c5854544bd7bbbf3fa14e49e54fd5f70ac6e2d9da67f8bf9c4eec6"
 metafile = true
 
 [[files]]
@@ -556,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "9c671d144f6300ec24dd7ad6ffdc465e47d65d7b9c7c4009e43368a9fb02ae87"
+hash = "791240d2f9fdda1fa0426558c53f263f6e919ecd56ddb41231434f98664cb3f6"
 metafile = true
 
 [[files]]
@@ -581,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "11c84f95bbd7329c9bc6865777914c06eeb73cc0b39a4b254c0ccd7a0b35f927"
+hash = "71d551bba4e59a81f81f6df6a486b57b10c39f87ecd7eddacbebbb9f171fe59d"
 metafile = true
 
 [[files]]

@@ -4,7 +4,7 @@
 
 ![](docs/screenshot.png)
 
-Be wary, this pack is still a **work in progress!** While it should be possible to build amazing mechanical- and redstone-powered automatons, there are some elements not yet finished: Not all islands have been built, the Nether is pretty bare-bones, you can't yet get to the End, and some items like diamonds and netherite are unobtainable.
+Be wary, this pack is still a **work in progress!** While it should be possible to build amazing mechanical- and redstone-powered automatons, there are some elements not yet finished: Not all islands have been built, you can't yet get to the End, and some items like diamonds and netherite are unobtainable.
 
 
 ## Download / Installation
@@ -35,20 +35,20 @@ We're using [packwiz] to for developing the modpack and providing the files file
 ```sh
 # Adjust if necessary, such as if a new version is available / required.
 wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
-wget https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.2/forge-1.16.5-36.2.2-installer.jar
+wget https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.4/forge-1.16.5-36.2.4-installer.jar
 
 # Download modpack files. Also run this to update.
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/copygirl/slime-skies/main/pack.toml
 
 # Download Minecraft and Forge files.
-java -jar forge-1.16.5-36.2.2-installer.jar --installServer
+java -jar forge-1.16.5-36.2.4-installer.jar --installServer
 
 # IMPORTANT! Before starting up the server, make sure
 # copy the folder `world_template` and name it `world`.
 
 # Now do the usual, accept the EULA, edit your server
 # properties, run your startup script as you're used to.
-java -jar -Xmx4G -Xms4G forge-1.16.5-36.2.2.jar nogui
+java -jar -Xmx4G -Xms4G forge-1.16.5-36.2.4.jar nogui
 ```
 
 
