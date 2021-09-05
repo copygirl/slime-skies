@@ -473,6 +473,10 @@ file = "kubejs/server_scripts/replace_copper_tags.js"
 hash = "e60d60139b7610b4ad6f57ac1b05c7abeb0f52559be13f080ca1365855ceffa7"
 
 [[files]]
+file = "kubejs/server_scripts/stair_and_slab_tweaks.js"
+hash = "cf9d964db6e83f0b44cc4b90445a0e201286c380c7739f6ed6353bc90c84a560"
+
+[[files]]
 file = "kubejs/server_scripts/use_zinc_sheet.js"
 hash = "ac2188bbb53203063b8ced062d26862933662c336f35479717785f59c0741638"
 
