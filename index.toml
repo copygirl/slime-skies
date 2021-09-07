@@ -137,6 +137,18 @@ file = "kubejs/data/create/advancements/root.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "kubejs/data/create/recipes/compacting/andesite_from_flint.json"
+hash = "02c810960bedadaf429996f3905e6221bfec3be017af7e24c060a5240e1ecc22"
+
+[[files]]
+file = "kubejs/data/create/recipes/compacting/diorite_from_flint.json"
+hash = "4fb70dde1fef00804cd2e5e78a7ea74eb6500ceceb1a4b6b615f7ee05c1aff36"
+
+[[files]]
+file = "kubejs/data/create/recipes/compacting/granite_from_flint.json"
+hash = "fd23ea001a7147813f4e2643998d290e13e39f7e0a05f8950ee5752d6196152d"
+
+[[files]]
 file = "kubejs/data/create/recipes/crafting/kinetics/mechanical_mixer.json"
 hash = "1ed4a6a1eaeca6bea514f243773129c4533204ff708b5578996e81905b719ab2"
 
