@@ -1,0 +1,6 @@
+{
+  "type": "create:mixing",
+  "ingredients": [{ "item": "minecraft:magma_block" }],
+  "results": [{ "fluid": "minecraft:lava", "amount": 250 }],
+  "heatRequirement": "superheated"
+}

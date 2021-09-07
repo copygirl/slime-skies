@@ -461,6 +461,10 @@ file = "kubejs/data/slimeskies/recipes/mixing/iron_ore.json"
 hash = "e6e152f9309eab88401b7a39005f98dd7184638b49d26606d246d04186d5befe"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/mixing/lava_from_magma_block.json"
+hash = "58008a71a46014c476c7e1fe6a3e6d4760eaebc16eb841bab5c98f19ae128d80"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/mixing/zinc_ore.json"
 hash = "3709f24f1ba0cba70fff62a3b464bcf14df0098204b5069a3aa5e84bca815398"
 
