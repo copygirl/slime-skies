@@ -142,7 +142,7 @@ hash = "02c810960bedadaf429996f3905e6221bfec3be017af7e24c060a5240e1ecc22"
 
 [[files]]
 file = "kubejs/data/create/recipes/compacting/diorite_from_flint.json"
-hash = "4fb70dde1fef00804cd2e5e78a7ea74eb6500ceceb1a4b6b615f7ee05c1aff36"
+hash = "f316b088c2285a6d92f008031642e8187b8a70eaa7f6f87ef1e7216bd6d8fb1c"
 
 [[files]]
 file = "kubejs/data/create/recipes/compacting/granite_from_flint.json"
@@ -486,7 +486,7 @@ hash = "24034214e79e81cefe94ba9f6c68d62771b219ca1d9b20a194aa01ef7c1fea02"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_tweaks.js"
-hash = "3c205694ed26083e100bf9e82271febc7850e1e2ce5b4aa2b0f83871c1b5e969"
+hash = "503f0e8fc04f85218cf87e3d89de2c12e318af2ceeb2add8f7d3fd8df979983d"
 
 [[files]]
 file = "kubejs/server_scripts/replace_copper_recipes.js"
