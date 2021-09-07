@@ -217,6 +217,14 @@ file = "kubejs/data/minecraft/advancements/story/root.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/cake.json"
+hash = "6a4fce4a4e6fa8cbeebb37c027b746625dfe442315c11c0513970972de3324fc"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/cookie.json"
+hash = "d8df166fd7e12a35b726bbf0c6f9ff4c51e3ce3aa91a7c57eb1b52ea37e1bc22"
+
+[[files]]
 file = "kubejs/data/quark/recipes/oddities/crafting/backpack_no_hide.json"
 hash = "f87ab2e8ac8bfb9c7bb93cb3a0c09dee51007c7471d91f805a3357245df19b0e"
 

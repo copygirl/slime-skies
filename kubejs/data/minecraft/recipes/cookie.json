@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "create:dough" },
+    { "item": "minecraft:cocoa_beans" }
+  ],
+  "result": { "item": "minecraft:cookie", "count": 8 }
+}
