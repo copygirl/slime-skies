@@ -58,7 +58,7 @@ hash = "be9998575be5f453d38d3ebdd0fc60bb3136c6d41850bf9876733eb2c625f607"
 
 [[files]]
 file = "config/twerk-config.toml"
-hash = "3371c418d9a34f5a4565850bdc69c54dacfbef1a7f39339c133b33f8841033dc"
+hash = "f4653d457d5d6d18902c7b10e1c7de6007f007c6f69d07a8ad07d7f0fb14bbb6"
 
 [[files]]
 file = "defaultconfigs/ceramicbucket-server.toml"
