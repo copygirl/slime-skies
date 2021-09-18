@@ -98,27 +98,27 @@ hash = "e86b54828fa47554edc13db7f9a7e4269b379fefaaac92241931f81b7d796b49"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "e5fc5c84ad05435ff112daa1bb58dcdebdd7265ac24d79ac881b4b1dcab6c4f1"
-
-[[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
 hash = "0c33bbb9233f55b7f2b8cb2ea7e585d3693f9afd6649526dea6dc262ade69753"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
 hash = "ce913d16adbdaa14f959dfaaee3adaf21daad033688a1cdbeb7c80369c574729"
 
 [[files]]
-file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
 hash = "b1dea53db43f05cc177ce750aff8f7e61dc21b403587a27e9e4e0090912933bd"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "e5fc5c84ad05435ff112daa1bb58dcdebdd7265ac24d79ac881b4b1dcab6c4f1"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "e042b4185d8005c8b226f0b7b982cede6412a5d7991bf5f30b782d5bad4c6755"
+hash = "c474826cc0b7fb4d8325b94241020bc2d5fdc0dd818490904d030f5d74405fb1"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "6ad13fd1fc4c043756315749f79ca29fb078c363f369857ded936cc33d8e5791"
+hash = "67004c32eae7656bed58e06b672fc90f25816fcc49fb88950e23e0ef0f9e1f4c"
 
 [[files]]
 file = "kubejs/client_scripts/hide_enchantments.js.disabled"
