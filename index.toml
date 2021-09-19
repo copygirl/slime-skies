@@ -486,7 +486,7 @@ hash = "24034214e79e81cefe94ba9f6c68d62771b219ca1d9b20a194aa01ef7c1fea02"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_tweaks.js"
-hash = "503f0e8fc04f85218cf87e3d89de2c12e318af2ceeb2add8f7d3fd8df979983d"
+hash = "77220cbdd1503f42e264c4461c38835145e7d691c5f79e89ec70adbf637df899"
 
 [[files]]
 file = "kubejs/server_scripts/replace_copper_recipes.js"
