@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:stone" },
+    { "tag": "forge:nuggets/copper" },
+    { "tag": "forge:nuggets/copper" },
+    { "tag": "forge:nuggets/copper" },
+    { "tag": "forge:nuggets/copper" },
+    { "tag": "forge:nuggets/copper" },
+    { "fluid": "minecraft:lava", "amount": 250 }
+  ],
+  "heatRequirement": "superheated",
+  "results": [ { "item": "cavesandcliffs:copper_ore" } ]
+}

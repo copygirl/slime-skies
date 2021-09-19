@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:stone" },
+    { "tag": "forge:nuggets/iron" },
+    { "tag": "forge:nuggets/iron" },
+    { "tag": "forge:nuggets/iron" },
+    { "tag": "forge:nuggets/iron" },
+    { "tag": "forge:nuggets/iron" },
+    { "fluid": "minecraft:lava", "amount": 250 }
+  ],
+  "heatRequirement": "superheated",
+  "results": [ { "item": "minecraft:iron_ore" } ]
+}

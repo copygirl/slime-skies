@@ -413,8 +413,20 @@ file = "kubejs/data/slimeskies/recipes/compacting/clay.json"
 hash = "496489dd05ab39797bc40de6fcf5778a048f0ff86142f77a5fc969a7565d2c90"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/compacting/copper_ore.json"
+hash = "b7b3d255811091e7449686bffa8b72562166c0f2d5bf63bb876a476e479a75d2"
+
+[[files]]
+file = "kubejs/data/slimeskies/recipes/compacting/gold_ore.json"
+hash = "b28b3d490b987aa3f09e4bcf059fbefdb152a8f8f6b3c370cb763ede36bda11e"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/compacting/gravel.json"
 hash = "4d9758df824967e43fda6b4ca77831a7ae7ed7cdc372b570c6068ce6bc911174"
+
+[[files]]
+file = "kubejs/data/slimeskies/recipes/compacting/iron_ore.json"
+hash = "79a3561ed06d3c1fd6ec8b3b72176e6a7176d4f187f5ee426a900dddeec5da42"
 
 [[files]]
 file = "kubejs/data/slimeskies/recipes/compacting/netherrack.json"
@@ -423,6 +435,10 @@ hash = "82540e3e529ea8ec0dddb6729813eaf2c5ab104dd8e4e48a2479dbc52f20db0f"
 [[files]]
 file = "kubejs/data/slimeskies/recipes/compacting/soul_sand.json"
 hash = "93a9456be23000b64e6d835769fc56806c0615c9ba50970f913e367a0643a2b1"
+
+[[files]]
+file = "kubejs/data/slimeskies/recipes/compacting/zinc_ore.json"
+hash = "9dda1e019be779038fba22b2ac822d531417b1444c3611716f94c043eed0a87a"
 
 [[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/copper_nugget_from_raw_copper.json"
@@ -457,24 +473,8 @@ file = "kubejs/data/slimeskies/recipes/milling/andesite.json"
 hash = "502b05d39a9a4dea447252e7123beac1a3de9dd12134a473af76d764e9bdb05b"
 
 [[files]]
-file = "kubejs/data/slimeskies/recipes/mixing/copper_ore.json"
-hash = "9e3f9d2c64bbde8c4ce37822a4a187979170c01538c9c15b50072cb3821688a8"
-
-[[files]]
-file = "kubejs/data/slimeskies/recipes/mixing/gold_ore.json"
-hash = "6c11946ea5d97a7705ee34352f23ef6c66944e968cfc5c893ee434a5ce4ef827"
-
-[[files]]
-file = "kubejs/data/slimeskies/recipes/mixing/iron_ore.json"
-hash = "e6e152f9309eab88401b7a39005f98dd7184638b49d26606d246d04186d5befe"
-
-[[files]]
 file = "kubejs/data/slimeskies/recipes/mixing/lava_from_magma_block.json"
 hash = "58008a71a46014c476c7e1fe6a3e6d4760eaebc16eb841bab5c98f19ae128d80"
-
-[[files]]
-file = "kubejs/data/slimeskies/recipes/mixing/zinc_ore.json"
-hash = "3709f24f1ba0cba70fff62a3b464bcf14df0098204b5069a3aa5e84bca815398"
 
 [[files]]
 file = "kubejs/data/slimeskies/recipes/pressing/zinc_ingot.json"

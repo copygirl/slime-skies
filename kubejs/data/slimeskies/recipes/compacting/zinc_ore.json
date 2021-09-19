@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:stone" },
+    { "tag": "forge:nuggets/zinc" },
+    { "tag": "forge:nuggets/zinc" },
+    { "tag": "forge:nuggets/zinc" },
+    { "tag": "forge:nuggets/zinc" },
+    { "tag": "forge:nuggets/zinc" },
+    { "fluid": "minecraft:lava", "amount": 250 }
+  ],
+  "heatRequirement": "superheated",
+  "results": [ { "item": "kubejs:zinc_ore" } ]
+}
