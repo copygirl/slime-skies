@@ -182,11 +182,11 @@ hash = "ba504849b42feef0ca19049eb501d31e929a83650190a6c3b11d583e32d015e0"
 
 [[files]]
 file = "kubejs/data/create/recipes/splashing/red_sand.json"
-hash = "00f591f634a679610578233ee1d2da544a010125c98a839879c9d947493d3000"
+hash = "c0451c7d0e9985980c98b079f8d8164c55b596a3bf5e9770d1b0a0c862ea084e"
 
 [[files]]
 file = "kubejs/data/create/recipes/splashing/sand.json"
-hash = "0308ec7e03fa8b1ad5ba5bc85f334fbfe66e538817b5af9f23282a598abaed59"
+hash = "89fd3112aae366b9ea3cde401cea2f624196dba721f701567a90897ca66c9392"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/ores/zinc.json"

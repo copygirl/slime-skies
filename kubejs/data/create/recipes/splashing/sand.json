@@ -3,7 +3,7 @@
   "ingredients": [ { "item": "minecraft:sand" } ],
   "results": [
     { "item": "minecraft:clay_ball", "chance": 0.5 },
-    { "item": "create:copper_nugget", "count": 2, "chance": 0.4 },
-    { "item": "create:copper_nugget", "chance": 0.2 }
+    { "item": "create:copper_nugget", "count": 2, "chance": 0.2 },
+    { "item": "create:copper_nugget", "chance": 0.1 }
   ]
 }
