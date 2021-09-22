@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:overworld/00_root",
+  "display": {
+    "title": "Birch Forest Island",
+    "description": "Visit the Birch Forest Island.",
+    "icon": { "item": "minecraft:birch_log" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 56, "max": 72 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -8, "max": 8 }
+        }
+      }
+    }
+  }
+}

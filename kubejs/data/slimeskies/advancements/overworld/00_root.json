@@ -1,0 +1,13 @@
+{
+  "display": {
+    "title": "Overworld",
+    "description": "Visit the surrounding islands.",
+    "icon": { "item": "minecraft:grass_block" },
+    "background": "minecraft:textures/block/andesite.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": { "trigger": "minecraft:tick" }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:overworld/02_birch_forest",
+  "display": {
+    "title": "Savanna Island",
+    "description": "Visit the Savanna Island.",
+    "icon": { "item": "minecraft:acacia_log" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 136, "max": 152 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": 88, "max": 104 }
+        }
+      }
+    }
+  }
+}

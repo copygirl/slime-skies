@@ -1,0 +1,13 @@
+{
+  "display": {
+    "title": "Renewables",
+    "description": "Grind some resources.",
+    "icon": { "item": "minecraft:sunflower" },
+    "background": "minecraft:textures/block/andesite.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": { "trigger": "minecraft:tick" }
+  }
+}

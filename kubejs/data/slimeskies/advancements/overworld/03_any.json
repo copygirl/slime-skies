@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 136, "max": 152 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": 88, "max": 104 }
+        }
+      }
+    },
+    "1": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 144, "max": 176 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -16, "max": 16 }
+        }
+      }
+    },
+    "2": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 136, "max": 152 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -104, "max": -88 }
+        }
+      }
+    }
+  },
+  "requirements": [ [ "0", "1", "2" ] ]
+}

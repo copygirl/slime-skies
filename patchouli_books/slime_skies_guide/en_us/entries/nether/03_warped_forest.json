@@ -1,0 +1,17 @@
+{
+  "name": "Warped Forest",
+  "icon": "minecraft:warped_stem",
+  "category": "patchouli:nether",
+
+  "advancement": "slimeskies:nether/02_lava_lake",
+  "turnin": "slimeskies:nether/03_warped_forest",
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Netherrack$(li)$(bold)Trees:/$ Warped Fungus$(li)$(bold)Plants:/$ Shroomlight,$(br)           Twisting Vine$(li)$(bold)Enemies:/$ Enderman"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/warped_forest.png" ]
+  }]
+}

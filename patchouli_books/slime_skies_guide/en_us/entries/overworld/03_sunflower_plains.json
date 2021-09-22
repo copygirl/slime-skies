@@ -1,0 +1,17 @@
+{
+  "name": "Sunflower Plains",
+  "icon": "minecraft:apple",
+  "category": "patchouli:overworld",
+
+  "advancement": "slimeskies:overworld/02_birch_forest",
+  "turnin": "slimeskies:overworld/03_sunflower_plains",
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Andesite$(li)$(bold)Trees:/$ Apple$(li)$(bold)Plants:/$ Pumpkin, Sunflower$(li)$(bold)Animals:/$ Cow, Horse"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/sunflower_plains.png" ]
+  }]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Coarse Dirt and Dirt",
+  "icon": "minecraft:coarse_dirt",
+  "category": "patchouli:renewables",
+
+  "turnin": "slimeskies:renewables/04_dirt",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "While $(item)dirt/$ is relatively plentiful if you're willing to strip the other islands, you might still want to automate the creation of it.$(p)For this, simply follow these three easy steps:$(br)$(li)Craft $(item)coarse dirt/$.$(li)Place it down in-world.$(li)Till it with a $(item)hoe/$.$(p)              $(t:32x Coarse Dirt)$(bold)[Requirements]/$"
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "minecraft:coarse_dirt",
+    "text": "Of course, this entire process can eventually be automated using Create's $(item)crafter/$, $(item)deployer/$, $(item)plough/$ and $(item)drill/$.$(p)Though this is left as an exercise for the reader."
+  }]
+}

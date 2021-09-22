@@ -1,0 +1,15 @@
+{
+  "name": "Starting Island",
+  "icon": "minecraft:oak_log",
+  "category": "patchouli:overworld",
+
+  "sortnum": 1,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Small$(li)$(bold)Stone:/$ Andesite$(li)$(bold)Trees:/$ Oak$(li)$(bold)Plants:/$ Kelp$(li)$(bold)Animals:/$ —$(p)$(bold)$(italic)Notable Features/$$(br)Other than $(thing)world spawn/$, your home also features 4 clusters of $(item)zinc ore/$, which you can mine with a $(item)stone pickaxe/$ and turn into nuggets."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/starting_island.png" ]
+  }]
+}

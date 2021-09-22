@@ -1,0 +1,17 @@
+{
+  "name": "Blaze Spawner",
+  "icon": "minecraft:blaze_rod",
+  "category": "patchouli:nether",
+
+  "advancement": "slimeskies:nether/03_fortress",
+  "turnin": "slimeskies:nether/04_blaze_spawner",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Structure Properties/$$(li)$(bold)Size:/$ Small$(li)$(bold)Material:/$ Nether Brick$(li)$(bold)Enemies:/$ Blaze$(p)$(bold)$(italic)Notable Features/$$(br)By the way, did you know you can move $(item)spawners/$ using Create, for example with $(thing)minecart contraptions/$?"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/blaze_spawner.png" ]
+  }]
+}

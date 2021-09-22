@@ -1,0 +1,20 @@
+{
+  "name": "Nether Portal",
+  "icon": "minecraft:netherrack",
+  "category": "patchouli:nether",
+
+  "turnin": "slimeskies:nether/01_nether_portal",
+  "sortnum": 1,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Small/Medium$(li)$(bold)Stone:/$ Netherrack$(li)$(bold)Trees:/$ —$(li)$(bold)Plants:/$ —$(li)$(bold)Animals:/$ —$(p)$(bold)$(italic)Notable Features/$$(br)Besides the $(thing)portal frame/$, also has little bits of $(item)quartz ore/$. The nether side of the island has even more goodies."
+  },{
+    "type": "patchouli:image",
+    "images": [
+      "kubejs:textures/gui/guide_book/nether/nether_portal_0.png",
+      "kubejs:textures/gui/guide_book/nether/nether_portal_1.png"
+    ],
+    "text": "You do know how to light a $(thing)nether portal/$, right?"
+  }]
+}

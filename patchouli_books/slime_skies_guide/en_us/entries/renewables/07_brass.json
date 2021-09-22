@@ -1,0 +1,10 @@
+{
+  "name": "Brass (by Blazes)",
+  "icon": "create:brass_ingot",
+  "category": "patchouli:renewables",
+  "sortnum": 7,
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+  }]
+}

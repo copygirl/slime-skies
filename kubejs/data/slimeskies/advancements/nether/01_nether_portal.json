@@ -1,0 +1,23 @@
+{
+  "display": {
+    "title": "Nether Portal",
+    "description": "Visit the Nether Portal Island.",
+    "icon": { "item": "minecraft:netherrack" },
+    "background": "minecraft:textures/block/netherrack.png",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": -70, "max": -58 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -6, "max": 6 }
+        }
+      }
+    }
+  }
+}

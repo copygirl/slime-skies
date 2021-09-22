@@ -1,0 +1,17 @@
+{
+  "name": "Swamp",
+  "icon": "minecraft:lily_pad",
+  "category": "patchouli:overworld",
+
+  "advancement": "slimeskies:overworld/02_birch_forest",
+  "turnin": "slimeskies:overworld/03_swamp",
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Small$(li)$(bold)Stone:/$ Andesite$(li)$(bold)Trees:/$ Oak$(li)$(bold)Plants:/$ Carrot, Rose Bush$(li)$(bold)Animals:/$ Pig$(p)$(bold)$(italic)Notable Features/$$(br)The $(thing)slimes/$ here can be caught in $(item)iron buckets/$, to show you which chunks are $(thing)slime chunks/$, where slimes naturally spawn at Y=40 and below."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/swamp.png" ]
+  }]
+}

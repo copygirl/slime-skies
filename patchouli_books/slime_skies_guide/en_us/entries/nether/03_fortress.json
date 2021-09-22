@@ -1,0 +1,17 @@
+{
+  "name": "Nether Fortress",
+  "icon": "minecraft:nether_bricks",
+  "category": "patchouli:nether",
+
+  "advancement": "slimeskies:nether/02_lava_lake",
+  "turnin": "slimeskies:nether/03_fortress",
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Structure Properties/$$(li)$(bold)Size:/$ Huge$(li)$(bold)Material:/$ Nether Brick$(li)$(bold)Plants:/$ Nether Wart$(li)$(bold)Enemies:/$ Blaze, Skeleton,$(br)            Wither Skeleton"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/fortress.png" ]
+  }]
+}

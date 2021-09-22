@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:overworld/03_sunflower_plains",
+  "display": {
+    "title": "Desert Island",
+    "description": "Visit the Desert Island.",
+    "icon": { "item": "minecraft:sand" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 224, "max": 256 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": 192, "max": 224 }
+        }
+      }
+    }
+  }
+}

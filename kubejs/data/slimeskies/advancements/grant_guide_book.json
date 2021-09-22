@@ -1,0 +1,4 @@
+{
+  "criteria": { "tick": { "trigger": "minecraft:tick" } },
+  "rewards": { "loot": [ "slimeskies:grant_guide_book" ] }
+}

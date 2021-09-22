@@ -1,0 +1,19 @@
+{
+  "name": "Charcoal and Food",
+  "icon": "minecraft:campfire",
+  "category": "patchouli:renewables",
+
+  "turnin": "slimeskies:renewables/02_campfire",
+  "sortnum": 2,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "Without cobblestone to create a furnace, you are limited in what you can do. Thankfully, your $(item)campfire/$ is here to help!$(p)You can break it to get 2 $(item)charcoal/$, using which you can create additional campfires, or $(item)torches/$. Another use for it is drying your $(item)kelp/$ for some rudimentary food, but it turns out this also has other interesting uses ...$(br)              $(t:16x Charcoal\n16x Dried Kelp)$(bold)[Requirements]/$"
+  },{
+    "type": "patchouli:image",
+    "title": "Drying Kelp",
+    "images": [ "kubejs:textures/gui/guide_book/drying_kelp.png" ],
+    "border": true,
+    "text": "Unfortunately, this modpack does not have sushi."
+  }]
+}

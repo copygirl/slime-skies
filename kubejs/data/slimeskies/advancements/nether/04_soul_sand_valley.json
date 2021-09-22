@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:nether/03_fortress",
+  "display": {
+    "title": "Soul Sand Valley",
+    "description": "Visit the Soul Sand Valley Island.",
+    "icon": { "item": "minecraft:soul_sand" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "the_nether",
+        "position": {
+          "x": { "min": -248, "max": -200 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -120, "max": -72 }
+        }
+      }
+    }
+  }
+}

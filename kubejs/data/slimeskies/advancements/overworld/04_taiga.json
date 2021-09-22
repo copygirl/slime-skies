@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:overworld/03_sunflower_plains",
+  "display": {
+    "title": "Taiga Island",
+    "description": "Visit the Taiga Island.",
+    "icon": { "item": "minecraft:spruce_log" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 264, "max": 312 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -24, "max": 24 }
+        }
+      }
+    }
+  }
+}

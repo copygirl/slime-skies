@@ -1,0 +1,19 @@
+{
+  "name": "Wood and Plants",
+  "icon": "minecraft:oak_planks",
+  "category": "patchouli:renewables",
+
+  "turnin": "slimeskies:renewables/01_wood",
+  "sortnum": 1,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "This modpack features $(l:https://www.curseforge.com/minecraft/mc-mods/dynamictrees)Dynamic Trees/$, which adds beautiful looking, gradually growing trees than can be chopped down by breaking a single block, and even pruned if you so wish.$(p)Another mod, $(l:https://www.curseforge.com/minecraft/mc-mods/twerkitmeal)TwerkItMeal/$, goes hand-in-hand with it, allowing you to 'twerk' (repeatedly sneak) to quickly grow plants such as trees and $(item)kelp/$.$(br)              $(t:32x Oak Log\n4x Oak Acorn)$(bold)[Requirements]/$"
+  },{
+    "type": "patchouli:image",
+    "title": "Growing Tree",
+    "images": [ "kubejs:textures/gui/guide_book/growing_tree.png" ],
+    "border": true,
+    "text": "Note the 'bonemeal' particles that appear around the tree."
+  }]
+}

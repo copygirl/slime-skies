@@ -1,0 +1,10 @@
+{
+  "name": "Lava (using Cake)",
+  "icon": "minecraft:lava_bucket",
+  "category": "patchouli:renewables",
+  "sortnum": 9,
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+  }]
+}

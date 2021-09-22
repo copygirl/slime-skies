@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:overworld/02_birch_forest",
+  "display": {
+    "title": "Swamp Island",
+    "description": "Visit the Swamp Island.",
+    "icon": { "item": "minecraft:lily_pad" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 136, "max": 152 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -104, "max": -88 }
+        }
+      }
+    }
+  }
+}

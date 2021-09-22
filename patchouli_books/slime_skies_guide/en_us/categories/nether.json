@@ -1,0 +1,6 @@
+{
+  "name": "The Nether",
+  "icon": "minecraft:netherrack",
+  "description": "The $(bold)Nether/$ and its islands is a bit more difficult to explore than the $(bold)Overworld/$. You may get overwhelmed by enemies, possibly even sniped by $(thing)blazes/$ or $(thing)ghasts/$. So, be prepared!$(p)Unfortunately, you will eventually need to make your way into this (literal?) hell, as $(item)nether wart/$, $(item)blaze rods/$ and even $(thing)blazes/$ themselves will be required to advance!",
+  "sortnum": 5
+}

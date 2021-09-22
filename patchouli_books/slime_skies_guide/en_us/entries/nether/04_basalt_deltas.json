@@ -1,0 +1,17 @@
+{
+  "name": "Basalt Deltas",
+  "icon": "minecraft:basalt",
+  "category": "patchouli:nether",
+
+  "advancement": "slimeskies:nether/03_fortress",
+  "turnin": "slimeskies:nether/04_basalt_deltas",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Large$(li)$(bold)Stone:/$ Basalt$(li)$(bold)Trees:/$ —$(li)$(bold)Plants:/$ —$(li)$(bold)Enemies:/$ Magma Cube"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/basalt_deltas.png" ]
+  }]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Birch Forest",
+  "icon": "minecraft:birch_log",
+  "category": "patchouli:overworld",
+
+  "turnin": "slimeskies:overworld/02_birch_forest",
+  "sortnum": 2,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Small$(li)$(bold)Stone:/$ Andesite$(li)$(bold)Trees:/$ Birch$(li)$(bold)Plants:/$ Beetroot$(li)$(bold)Animals:/$ Sheep"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/birch_forest.png" ]
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "slimeskies:renewables/03_gravel",
+  "display": {
+    "icon": { "item": "minecraft:coarse_dirt" },
+    "title": "Coarse Dirt and Dirt",
+    "description": "Collect 32x Coarse Dirt.",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:coarse_dirt", "count": { "min": 32 } }
+        ]
+      }
+    }
+  }
+}

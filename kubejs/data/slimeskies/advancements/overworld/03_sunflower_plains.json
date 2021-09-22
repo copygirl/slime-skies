@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:overworld/02_birch_forest",
+  "display": {
+    "title": "Sunflower Plains Island",
+    "description": "Visit the Sunflower Plains Island.",
+    "icon": { "item": "minecraft:apple" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "overworld",
+        "position": {
+          "x": { "min": 144, "max": 176 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -16, "max": 16 }
+        }
+      }
+    }
+  }
+}

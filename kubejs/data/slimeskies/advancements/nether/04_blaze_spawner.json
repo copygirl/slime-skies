@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:nether/03_fortress",
+  "display": {
+    "title": "Blaze Spawner",
+    "description": "Visit the Blaze Spawner.",
+    "icon": { "item": "minecraft:blaze_rod" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "the_nether",
+        "position": {
+          "x": { "min": -256, "max": -232 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -16, "max": 16 }
+        }
+      }
+    }
+  }
+}

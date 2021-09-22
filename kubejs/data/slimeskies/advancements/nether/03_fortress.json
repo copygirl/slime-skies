@@ -1,0 +1,16 @@
+{
+  "parent": "slimeskies:nether/02_lava_lake",
+  "display": {
+    "title": "Nether Fortress",
+    "description": "Visit the Nether Fortress.",
+    "icon": { "item": "minecraft:nether_brick" },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": { "location": { "feature": "fortress" } }
+    }
+  }
+}

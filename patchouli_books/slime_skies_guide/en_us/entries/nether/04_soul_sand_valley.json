@@ -1,0 +1,17 @@
+{
+  "name": "Soul Sand Valley",
+  "icon": "minecraft:soul_sand",
+  "category": "patchouli:nether",
+
+  "advancement": "slimeskies:nether/03_fortress",
+  "turnin": "slimeskies:nether/04_soul_sand_valley",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Large$(li)$(bold)Stone:/$ Netherrack$(li)$(bold)Trees:/$ —$(li)$(bold)Plants:/$ —$(li)$(bold)Enemies:/$ Ghast, Skeleton"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/soul_sand_valley.png" ]
+  }]
+}

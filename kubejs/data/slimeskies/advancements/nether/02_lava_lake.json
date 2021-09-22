@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:nether/01_nether_portal",
+  "display": {
+    "title": "Lava Lake",
+    "description": "Visit the Lava Lake Island.",
+    "icon": { "item": "minecraft:lava_bucket" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "the_nether",
+        "position": {
+          "x": { "min": -76, "max": -52 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": -12, "max": 12 }
+        }
+      }
+    }
+  }
+}

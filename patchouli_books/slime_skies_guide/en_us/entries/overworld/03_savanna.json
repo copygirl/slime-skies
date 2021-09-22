@@ -1,0 +1,17 @@
+{
+  "name": "Savanna",
+  "icon": "minecraft:acacia_log",
+  "category": "patchouli:overworld",
+
+  "advancement": "slimeskies:overworld/02_birch_forest",
+  "turnin": "slimeskies:overworld/03_savanna",
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Small$(li)$(bold)Stone:/$ Granite$(li)$(bold)Trees:/$ Acacia$(li)$(bold)Plants:/$ Potato$(li)$(bold)Animals:/$ Chicken"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/savanna.png" ]
+  }]
+}

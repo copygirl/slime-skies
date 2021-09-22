@@ -1,0 +1,17 @@
+{
+  "name": "Bee Island",
+  "icon": "minecraft:honeycomb",
+  "category": "patchouli:overworld",
+
+  "advancement": "slimeskies:overworld/03_any",
+  "turnin": "slimeskies:overworld/04_bee_island",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Diorite$(li)$(bold)Trees:/$ Sunny Blossom,$(br)          Fiery Blossom$(li)$(bold)Plants:/$ Lilac$(li)$(bold)Animals:/$ Bee$(p)$(bold)$(italic)Notable Features/$$(br)Have you ever considered swimming in a $(thing)pool of honey/$?"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/bee_island.png" ]
+  }]
+}

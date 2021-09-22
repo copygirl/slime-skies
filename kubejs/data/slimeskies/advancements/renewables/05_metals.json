@@ -1,0 +1,22 @@
+{
+  "parent": "slimeskies:renewables/03_gravel",
+  "display": {
+    "icon": { "item": "minecraft:iron_ingot" },
+    "title": "Iron, Copper and Zinc",
+    "description": "Collect 8x Iron, Copper and Zinc ingots.",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:iron_ingot", "count": { "min": 8 } },
+          { "item": "cavesandcliffs:copper_ingot", "count": { "min": 8 } },
+          { "item": "create:zinc_ingot", "count": { "min": 8 } }
+        ]
+      }
+    }
+  }
+}

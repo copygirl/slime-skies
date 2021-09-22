@@ -1,0 +1,8 @@
+{
+  "name": "Slime Skies - Guide",
+  "subtitle": "Automate the Skies",
+  "landing_text": "Welcome to $(bold)Slime Skies/$, a SkyBlock modpack which mainly revolves around the $(l:https://www.curseforge.com/minecraft/mc-mods/create)Create/$ mod, both to offer a unique beginning, as well as the potential for much automation.$(br2)This guide book will provide you with helpful starting tips and information on materials and machines.",
+  "book_texture": "patchouli:textures/gui/book_green.png",
+  "model": "kubejs:guide_book",
+  "show_progress": false
+}

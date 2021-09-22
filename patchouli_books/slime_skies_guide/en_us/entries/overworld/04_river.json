@@ -1,0 +1,17 @@
+{
+  "name": "River",
+  "icon": "minecraft:salmon",
+  "category": "patchouli:overworld",
+
+  "advancement": "slimeskies:overworld/03_any",
+  "turnin": "slimeskies:overworld/04_river",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Andesite$(li)$(bold)Trees:/$ Oak, Birch$(li)$(bold)Plants:/$ Sugar Cane$(li)$(bold)Animals:/$ Fish, Squid"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/river.png" ]
+  }]
+}

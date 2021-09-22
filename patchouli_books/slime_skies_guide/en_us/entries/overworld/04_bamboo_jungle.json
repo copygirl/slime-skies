@@ -1,0 +1,17 @@
+{
+  "name": "Bamboo Jungle",
+  "icon": "minecraft:jungle_log",
+  "category": "patchouli:overworld",
+
+  "advancement": "slimeskies:overworld/03_any",
+  "turnin": "slimeskies:overworld/04_bamboo_jungle",
+  "sortnum": 4,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Diorite$(li)$(bold)Trees:/$ Jungle$(li)$(bold)Plants:/$ Bamboo, Melon,$(br)           Cocoa Bean, Vine$(li)$(bold)Animals:/$ Panda, Parrot"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/overworld/bamboo_jungle.png" ]
+  }]
+}

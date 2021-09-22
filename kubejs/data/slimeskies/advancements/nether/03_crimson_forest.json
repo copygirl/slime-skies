@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:nether/02_lava_lake",
+  "display": {
+    "title": "Crimson Forest",
+    "description": "Visit the Crimson Forest Island.",
+    "icon": { "item": "minecraft:crimson_stem" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "the_nether",
+        "position": {
+          "x": { "min": -144, "max": -112 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": 48, "max": 80 }
+        }
+      }
+    }
+  }
+}

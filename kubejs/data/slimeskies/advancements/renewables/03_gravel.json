@@ -1,0 +1,22 @@
+{
+  "parent": "slimeskies:renewables/00_root",
+  "display": {
+    "icon": { "item": "minecraft:gravel" },
+    "title": "Gravel, Flint and Sand",
+    "description": "Collect 32x Gravel, 32x Flint and 8x Sand.",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:gravel", "count": { "min": 32 } },
+          { "item": "minecraft:flint", "count": { "min": 32 } },
+          { "item": "minecraft:sand", "count": { "min": 8 } }
+        ]
+      }
+    }
+  }
+}

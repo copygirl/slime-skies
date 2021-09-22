@@ -1,0 +1,21 @@
+{
+  "parent": "slimeskies:renewables/00_root",
+  "display": {
+    "icon": { "item": "minecraft:campfire" },
+    "title": "Charcoal and Food",
+    "description": "Collect 16x Charcoal and 16x Dried Kelp.",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "inventory_changed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:charcoal", "count": { "min": 16 } },
+          { "item": "minecraft:dried_kelp", "count": { "min": 16 } }
+        ]
+      }
+    }
+  }
+}

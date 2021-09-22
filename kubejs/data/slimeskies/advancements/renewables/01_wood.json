@@ -1,0 +1,21 @@
+{
+  "parent": "slimeskies:renewables/00_root",
+  "display": {
+    "icon": { "item": "minecraft:oak_log" },
+    "title": "Wood and Plants",
+    "description": "Collect 32x Oak Logs and 4x Oak Acorns.",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "item": "minecraft:oak_log", "count": { "min": 32 } },
+          { "item": "dynamictrees:oak_seed", "count": { "min": 4 } }
+        ]
+      }
+    }
+  }
+}

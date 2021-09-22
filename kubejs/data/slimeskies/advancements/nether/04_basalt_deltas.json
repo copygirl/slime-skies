@@ -1,0 +1,23 @@
+{
+  "parent": "slimeskies:nether/03_fortress",
+  "display": {
+    "title": "Basalt Deltas",
+    "description": "Visit the Basalt Deltas Island.",
+    "icon": { "item": "minecraft:basalt" },
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "dimension": "the_nether",
+        "position": {
+          "x": { "min": -248, "max": -200 },
+          "y": { "min": 56, "max": 72 },
+          "z": { "min": 72, "max": 120 }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Lava Lake",
+  "icon": "minecraft:lava_bucket",
+  "category": "patchouli:nether",
+
+  "advancement": "minecraft:story/enter_the_nether",
+  "turnin": "slimeskies:nether/02_lava_lake",
+  "sortnum": 2,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Netherrack$(li)$(bold)Trees:/$ —$(li)$(bold)Plants:/$ —$(li)$(bold)Animals:/$ Strider$(p)$(bold)$(italic)Notable Features/$$(br)Lava lava lava."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/lava_lake.png" ]
+  }]
+}

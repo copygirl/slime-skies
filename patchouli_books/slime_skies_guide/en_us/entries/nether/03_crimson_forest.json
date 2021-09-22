@@ -1,0 +1,17 @@
+{
+  "name": "Crimson Forest",
+  "icon": "minecraft:crimson_stem",
+  "category": "patchouli:nether",
+
+  "advancement": "slimeskies:nether/02_lava_lake",
+  "turnin": "slimeskies:nether/03_crimson_forest",
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "$(bold)$(italic)Island Properties/$$(li)$(bold)Size:/$ Medium$(li)$(bold)Stone:/$ Netherrack$(li)$(bold)Trees:/$ Crimson Fungus$(li)$(bold)Plants:/$ Shroomlight,$(br)           Weeping Vine$(li)$(bold)Enemies:/$ Hoglin"
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/nether/crimson_forest.png" ]
+  }]
+}
