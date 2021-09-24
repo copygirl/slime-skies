@@ -12,7 +12,6 @@
     "minecraft:honey_bottle": 0
   },
 
-  "advancement": "slimeskies:overworld/03_any",
   "turnin": "slimeskies:overworld/04_bee_island",
   "sortnum": 4,
 

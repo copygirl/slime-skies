@@ -3,7 +3,7 @@
   "icon": "minecraft:basalt",
   "category": "patchouli:nether",
 
-  "advancement": "slimeskies:nether/03_fortress",
+  "advancement": "minecraft:story/enter_the_nether",
   "turnin": "slimeskies:nether/04_basalt_deltas",
   "sortnum": 4,
 

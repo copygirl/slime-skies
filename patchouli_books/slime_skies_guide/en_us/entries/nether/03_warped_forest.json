@@ -3,7 +3,7 @@
   "icon": "minecraft:warped_stem",
   "category": "patchouli:nether",
 
-  "advancement": "slimeskies:nether/02_lava_lake",
+  "advancement": "minecraft:story/enter_the_nether",
   "turnin": "slimeskies:nether/03_warped_forest",
   "sortnum": 3,
 

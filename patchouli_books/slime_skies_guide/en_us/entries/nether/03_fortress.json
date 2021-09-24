@@ -3,7 +3,7 @@
   "icon": "minecraft:nether_bricks",
   "category": "patchouli:nether",
 
-  "advancement": "slimeskies:nether/02_lava_lake",
+  "advancement": "minecraft:story/enter_the_nether",
   "turnin": "slimeskies:nether/03_fortress",
   "sortnum": 3,
 
