@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "6ea0538e4af05279bd88256ee5baf4b3c77400e46b1358e95f04242a1cd9514e"
+hash = "79acf283d9ec1b92e8571c3d025dddf2d0a621c73fc39f52e2bbf2347dbf3cf9"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.toml"
-hash = "0802907de3dfc4c15de546db252068e288f6ccca065f3db73db0d9ed35bfc5f9"
+hash = "7f7faf768330a6fd47e6dc9da35de6f5a5a97d109fcfd2e9f1b5323024d1ac4c"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "791240d2f9fdda1fa0426558c53f263f6e919ecd56ddb41231434f98664cb3f6"
+hash = "197224d714424c085db247187b4a8303c0be76376a712d066339d480c36c51c1"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.toml"
-hash = "aead5642678adffe40b7bf38fa0ec5751b17038ff9f871c9cba283e2880db4df"
+hash = "1bda7dbf2a15134727be5c4c9b886d68ed7f383bbbe39e2ce2dac78103f0cbac"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "71d551bba4e59a81f81f6df6a486b57b10c39f87ecd7eddacbebbb9f171fe59d"
+hash = "158a9c78f0366507b458633ccaefaedfec0c9985db01c75cb7a7c61ab908bcbd"
 metafile = true
 
 [[files]]
