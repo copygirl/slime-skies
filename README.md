@@ -9,7 +9,7 @@ Be wary, this pack is still a **work in progress!** While it should be possible 
 
 ## Download / Installation
 
-The modpack is available as a **self-updating** [MultiMC] instance currently.
+The modpack is currently only available as a **self-updating** [MultiMC] instance.
 
 - Download and install [MultiMC] if you don't have it already.
 - Drag the following link into the main window of MultiMC, and press "OK".  
@@ -17,20 +17,18 @@ The modpack is available as a **self-updating** [MultiMC] instance currently.
   Alternatively, create a new instance, select "Import from zip" and enter the above URL.
 - Start the game! At first launch, [packwiz] downloads all the config files and mods for you. When the modpack updates, the MultiMC instance will also update by itself with newly added / removed / updated mods, changed recipes, etc.
 
-**IMPORTANT!** The actual SkyBlock map is contained within a `world_template` folder in the instance's Minecraft directory. You will have to copy this into your `saves` folder before you can play the map.
+There is one copy of the world available in the singleplayer world selection screen. Because I could not find a mod that creates new worlds from a template, if you want to start over from scratch, you will have to follow these steps:
 
 - In MultiMC, select the instance and click "Minecraft Folder" on the right.
-- Copy the `world_template` folder, then go into your `saves` folder, paste the world, and optionally rename it. You can do this multiple times if you want to start over.
-- Even `world_template` will automatically update with the modpack.
+- Copy the `world_template` folder into your `saves` folder, and rename it.
+- The `world_template` folder will automatically update with the modpack.
 
 Unfortunately, there currently is no way to update a world you've already played with new or improved world content, such as new islands. (Unless you want to go through the effort of using a 3rd party map editor such as [Amulet] to copy them in.) You've been warned about the work-in-progress nature of this pack!
-
-I wish this was simpler for you players, but I have not been able to find a mod for this version of Minecraft that automatically creates new worlds from a simple template. Sorry!
 
 
 ## Server Setup
 
-We're using [packwiz] to for developing the modpack and providing the files files, such as mods, configs, the world map, ... So go ahead and grab the latest bootstrap `.jar` from its [GitHub Releases page][packwiz-releases], as well as [Forge for 1.16.5][forge-download] - the recommended version can be found in the [pack.toml](pack.toml).
+We're using [packwiz] to for developing the modpack and providing the files, such as mods, configs, the world map, ... So go ahead and grab the latest bootstrap `.jar` from its [GitHub Releases page][packwiz-releases], as well as [Forge for 1.16.5][forge-download] - the recommended version can be found in the [pack.toml](pack.toml).
 
 ```sh
 # Adjust if necessary, such as if a new version is available / required.

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e83d91f3b761ad6db58e4b491b8d075018b069ae2042c4e91b48feacc669cf33"
+hash = "5f044f799976b80524f060629101a21b9d072233a64ba18d01ff7c577204828e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
