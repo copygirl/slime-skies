@@ -2,6 +2,12 @@
   "name": "Swamp",
   "icon": "minecraft:lily_pad",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:carrot": 0,
+    "minecraft:rose_bush": 0,
+
+    "minecraft:porkchop": 0
+  },
 
   "advancement": "slimeskies:overworld/02_birch_forest",
   "turnin": "slimeskies:overworld/03_swamp",

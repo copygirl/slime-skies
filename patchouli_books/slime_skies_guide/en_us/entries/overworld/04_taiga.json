@@ -2,6 +2,12 @@
   "name": "Taiga",
   "icon": "minecraft:spruce_log",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:spruce_log": 0,
+    "dynamictrees:spruce_seed": 0,
+
+    "minecraft:sweet_berries": 0
+  },
 
   "advancement": "slimeskies:overworld/03_any",
   "turnin": "slimeskies:overworld/04_taiga",

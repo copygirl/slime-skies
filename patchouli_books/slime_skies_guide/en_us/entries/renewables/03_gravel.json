@@ -2,6 +2,12 @@
   "name": "Gravel, Flint and Sand",
   "icon": "minecraft:gravel",
   "category": "patchouli:renewables",
+  "extra_recipe_mappings": {
+    "minecraft:flint": 0,
+    "minecraft:gravel": 0,
+    "minecraft:sand": 0,
+    "create:limesand": 0
+  },
 
   "turnin": "slimeskies:renewables/03_gravel",
   "sortnum": 3,

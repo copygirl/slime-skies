@@ -2,6 +2,10 @@
   "name": "Starting Island",
   "icon": "minecraft:oak_log",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:oak_log": 0,
+    "dynamictrees:oak_seed": 0
+  },
 
   "sortnum": 1,
 

@@ -746,63 +746,63 @@ hash = "21d149c4041f1d41f3ee08668e801984f51249f1ab80ee2de29fd2cb1cfc4fc4"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/01_starting_island.json"
-hash = "2fae1f8c7f7f5f2c77b85f0bd4c69ad86aff02a50f4621527654ec82138e6680"
+hash = "3ad082b47ead9f3b84ee20e52bc18548ac657447e4b53058e23d63b0168f50c7"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/02_birch_forest.json"
-hash = "b36c65e94c2ab5695c25366dcc29a554b51f1b102b50af95d6897415bf02ba20"
+hash = "9622b86a800512e504454f9573697cdbc5a6caccdd15166a6f9ba090d879dfc3"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/03_savanna.json"
-hash = "20cbd3d57d5f21fd5cca8a082bb9942beb7b32b468cd63ee73d0258413f3c593"
+hash = "f68683fc6d9a5b5c757bfc40aee8c4b73f8e0d66a7127537e05a46ee4b3cd71c"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/03_sunflower_plains.json"
-hash = "f76cea76d834a3dd8249175b0bccd79e508e45324b6345927604a77da186c074"
+hash = "c01cb5eceec5cf290ab5902dd59f7862849c548f850b30b9e7da70df2eabe754"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/03_swamp.json"
-hash = "96486c3e4e366e22d54fafeabe5c392af76a907f57ec45960edc37d93465c7a6"
+hash = "2ffe01a0a8725f0206a3f5e6d2ebfa6319fc9223a6509af1d6209633a1be8d31"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_bamboo_jungle.json"
-hash = "499bb959611dc7ccea5fad35740096cf342ea11fbc6788e96144380a0e824f01"
+hash = "1908004a430c0d27ca2d197802ed05c35ea4ae525de368936a9590025e01a43f"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_bee_island.json"
-hash = "4f9fb4e02049f6638b8d2761d79eb2c2983b6f2ab233b9d335e73bedf55db6b4"
+hash = "eaf8b7e6eb6ac35d52da6ba65d6b5cbcf42c2cde643a6c7d24d998c6c228efdc"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_desert.json"
-hash = "59232e2e0e0b4cb0c859a47a2ff69f98f37f6eeeda8ed6ddbf30f93377fdb742"
+hash = "bdc12d42634329fd35d6364933e20df0e0de1e070a30bb960cc79261f5ff7faf"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_river.json"
-hash = "9df313508fb5fd55e13e4ba0a4c09af8c2e40c8dd42a0507a6a6fee95877be34"
+hash = "0c20289533f36fd5d933ef3166374d7dc8726f34a1a0a3c240df843d2797f51a"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_taiga.json"
-hash = "74c3da4487616bc32b19d0a75c280d19e5e7edb46b644a12d6002c95aa62af8b"
+hash = "1920ed825d7d24fbaceb0c701a3a0e594a01fc1112250ec9ef45c4e6a7ec8a30"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/01_wood.json"
-hash = "5cca5139b7c49b0db4a20824022458fa0dae05c3a5dfbc3a8e32d77c8625d4c5"
+hash = "da51948cffa0329315239da1eed15e6498a314a3092268aa2e2e1e7269e3304e"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/02_campfire.json"
-hash = "4e914528c407e6885e0f878a2e4912fd32c689050e936eb4645b3f5524735ecd"
+hash = "0f25dff170e127d07d152869d49ab082649ad2cccb5ff82b87a0772f834fa899"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/03_gravel.json"
-hash = "f055a25c65cac983e978097f6cb218bbd82cbbc61d91a66c5d5175fbcf537900"
+hash = "5628521969f101ea0beb2573aa303768a54b53cc2b1899bf485c8ff334459ec3"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/04_dirt.json"
-hash = "1dd6bb8d6b7e8fd5b28b299de370610c18a74cf6221b911b6ca2902092303079"
+hash = "e136ef433ebdfb26f39a99954774809abbffefefcc978b0772974d57a8900206"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/05_metals.json"
-hash = "4172cd087930614090176c4f470ae6ce011660a1b384bb3976c7b9d887b14fc0"
+hash = "d4a488bf5c0c0c36298ff865063f99b56e152aa7630f33506ad8a6ac805de64d"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/06_gold.json"

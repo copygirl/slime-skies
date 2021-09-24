@@ -2,6 +2,10 @@
   "name": "Wood and Plants",
   "icon": "minecraft:oak_planks",
   "category": "patchouli:renewables",
+  "extra_recipe_mappings": {
+    "dynamictrees:oak_branch": 0,
+    "minecraft:kelp": 0
+  },
 
   "turnin": "slimeskies:renewables/01_wood",
   "sortnum": 1,

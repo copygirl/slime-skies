@@ -2,6 +2,10 @@
   "name": "Charcoal and Food",
   "icon": "minecraft:campfire",
   "category": "patchouli:renewables",
+  "extra_recipe_mappings": {
+    "minecraft:campfire": 0,
+    "minecraft:charcoal": 0
+  },
 
   "turnin": "slimeskies:renewables/02_campfire",
   "sortnum": 2,

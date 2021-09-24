@@ -2,6 +2,12 @@
   "name": "River",
   "icon": "minecraft:salmon",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:sugar_cane": 0,
+
+    "minecraft:cod": 0,
+    "minecraft:salmon": 0
+  },
 
   "advancement": "slimeskies:overworld/03_any",
   "turnin": "slimeskies:overworld/04_river",

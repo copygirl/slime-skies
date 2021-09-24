@@ -2,6 +2,17 @@
   "name": "Bamboo Jungle",
   "icon": "minecraft:jungle_log",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:jungle_log": 0,
+    "dynamictrees:jungle_seed": 0,
+
+    "minecraft:bamboo": 0,
+    "minecraft:vine": 0,
+    "minecraft:melon": 0,
+    "minecraft:melon_seeds": 0,
+    "minecraft:melon_slice": 0,
+    "minecraft:cocoa_beans": 0
+  },
 
   "advancement": "slimeskies:overworld/03_any",
   "turnin": "slimeskies:overworld/04_bamboo_jungle",

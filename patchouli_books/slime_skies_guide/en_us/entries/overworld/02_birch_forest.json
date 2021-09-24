@@ -2,6 +2,31 @@
   "name": "Birch Forest",
   "icon": "minecraft:birch_log",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:birch_log": 0,
+    "dynamictrees:birch_seed": 0,
+
+    "minecraft:beetroot": 0,
+    "minecraft:beetroot_seeds": 0,
+
+    "minecraft:mutton": 0,
+    "minecraft:white_wool": 0,
+    "minecraft:orange_wool": 0,
+    "minecraft:magenta_wool": 0,
+    "minecraft:light_blue_wool": 0,
+    "minecraft:yellow_wool": 0,
+    "minecraft:lime_wool": 0,
+    "minecraft:pink_wool": 0,
+    "minecraft:gray_wool": 0,
+    "minecraft:light_gray_wool": 0,
+    "minecraft:cyan_wool": 0,
+    "minecraft:purple_wool": 0,
+    "minecraft:blue_wool": 0,
+    "minecraft:brown_wool": 0,
+    "minecraft:green_wool": 0,
+    "minecraft:red_wool": 0,
+    "minecraft:black_wool": 0
+  },
 
   "turnin": "slimeskies:overworld/02_birch_forest",
   "sortnum": 2,

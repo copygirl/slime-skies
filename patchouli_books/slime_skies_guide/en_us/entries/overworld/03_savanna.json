@@ -2,6 +2,16 @@
   "name": "Savanna",
   "icon": "minecraft:acacia_log",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:acacia_log": 0,
+    "dynamictrees:acacia_seed": 0,
+
+    "minecraft:potato": 0,
+
+    "minecraft:egg": 0,
+    "minecraft:chicken": 0,
+    "minecraft:feather": 0
+  },
 
   "advancement": "slimeskies:overworld/02_birch_forest",
   "turnin": "slimeskies:overworld/03_savanna",

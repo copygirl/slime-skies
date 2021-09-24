@@ -2,6 +2,10 @@
   "name": "Coarse Dirt and Dirt",
   "icon": "minecraft:coarse_dirt",
   "category": "patchouli:renewables",
+  "extra_recipe_mappings": {
+    "minecraft:grass_block": 0,
+    "minecraft:dirt": 0
+  },
 
   "turnin": "slimeskies:renewables/04_dirt",
   "sortnum": 4,

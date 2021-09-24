@@ -2,6 +2,14 @@
   "name": "Iron, Copper and Zinc",
   "icon": "minecraft:iron_ingot",
   "category": "patchouli:renewables",
+  "extra_recipe_mappings": {
+    "minecraft:iron_nugget": 0,
+    "minecraft:iron_ingot": 0,
+    "create:copper_nugget": 0,
+    "cavesandcliffs:copper_ingot": 0,
+    "create:zinc_nugget": 0,
+    "create:zinc_ingot": 0
+  },
 
   "turnin": "slimeskies:renewables/05_metals",
   "sortnum": 5,

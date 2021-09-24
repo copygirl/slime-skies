@@ -2,6 +2,15 @@
   "name": "Bee Island",
   "icon": "minecraft:honeycomb",
   "category": "patchouli:overworld",
+  "extra_recipe_mappings": {
+    "minecraft:lilac": 0,
+
+    "minecraft:bee_nest": 0,
+    "minecraft:honey_block": 0,
+    "minecraft:honeycomb_block": 0,
+    "minecraft:honeycomb": 0,
+    "minecraft:honey_bottle": 0
+  },
 
   "advancement": "slimeskies:overworld/03_any",
   "turnin": "slimeskies:overworld/04_bee_island",
