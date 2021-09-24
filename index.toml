@@ -846,19 +846,27 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "world_template/DIM-1/region/r.-1.-1.mca"
-hash = "3a83c0b650fb7a0c09de6fe088dc8fa80117e786f80c62a56ea98c6eba986433"
+hash = "0c15bdb54eecefe71604cc2715d1ecdc54d67979ddf0d399e1ef3d110edc5fb9"
 
 [[files]]
 file = "world_template/DIM-1/region/r.-1.0.mca"
-hash = "b5ce6c30eabc6fc4beebc0a003ca1903edf8a6e6287e22239a6fe0d677c9aab5"
+hash = "214e6700048de85423c8ecf20c2c6ec8ed7c145ec9c1ad6bf7837308ddf35d13"
+
+[[files]]
+file = "world_template/DIM-1/region/r.-2.-1.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
+
+[[files]]
+file = "world_template/DIM-1/region/r.-2.0.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
 
 [[files]]
 file = "world_template/DIM-1/region/r.0.-1.mca"
-hash = "cf8138c16891ca4fcafba7747cc4093bca21e678b1a012259943472bbf716cd8"
+hash = "56e4d9e86ad4e01e1a708ec35cbe284a363ece162eaec5fdcc257bd04ad0cf38"
 
 [[files]]
 file = "world_template/DIM-1/region/r.0.0.mca"
-hash = "b1277f26a1153548838b79c369602c549ee620a566155e0c10f73ef0367d32ef"
+hash = "c8260881cb2279f37c994572962d1f1511a1cee12f9ef4a2a4ea230f1174b303"
 
 [[files]]
 file = "world_template/DIM1/data/global_portal.dat"
@@ -894,20 +902,48 @@ hash = "e53769fe986deeab7b131c814d1edff389dd07c55eb3bb42cd56eb85e7432774"
 
 [[files]]
 file = "world_template/region/r.-1.-1.mca"
-hash = "c530bc824f28e44c5295ef67229e4ef80bc5717b4c3998e71a5c56dbba3f2c5d"
+hash = "df0a2fb96aad677a21a8ef0133a80641067013ae041b8bf8f9d2b27457c94c91"
+
+[[files]]
+file = "world_template/region/r.-1.-2.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
 
 [[files]]
 file = "world_template/region/r.-1.0.mca"
-hash = "dcbdcaa7508e41e18d6ddf6a27e590fa276b080eacaceea8467c5fa75db1570d"
+hash = "c13f4e57d02227051551efba30d944dc2cd8e307b57f005da9e64afa06561b46"
+
+[[files]]
+file = "world_template/region/r.-1.1.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
 
 [[files]]
 file = "world_template/region/r.0.-1.mca"
-hash = "c0e5fb70d6a22b516c95e9fae419d3c0b067d1aa0b87abf355dd28fee0b27298"
+hash = "14210458166a02ec070556186d9ec08a3c1edba7e52cf75bcd5d1d67fdd6db84"
+
+[[files]]
+file = "world_template/region/r.0.-2.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
 
 [[files]]
 file = "world_template/region/r.0.0.mca"
-hash = "9748f2a5f182504cac46bc637bd31031a53c8f1e9f3e8c7e9f9d92e6ae23820a"
+hash = "bd723e4699ba6e40cdc22f11c907f25dd92c5aeb1a384eea8b206bc85c10c12d"
 
 [[files]]
-file = "world_template/session.lock"
-hash = "e0ebeb97c1a4fee4ad394592b0f3954ccd9e2d61713bc522d1cb33f555979676"
+file = "world_template/region/r.0.1.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
+
+[[files]]
+file = "world_template/region/r.1.-1.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
+
+[[files]]
+file = "world_template/region/r.1.-2.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
+
+[[files]]
+file = "world_template/region/r.1.0.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
+
+[[files]]
+file = "world_template/region/r.1.1.mca"
+hash = "9f1dcbc35c350d6027f98be0f5c8b43b42ca52b7604459c0c42be3aa88913d47"
