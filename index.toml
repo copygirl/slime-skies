@@ -493,6 +493,10 @@ file = "kubejs/data/slimeskies/recipes/compacting/zinc_ore.json"
 hash = "9dda1e019be779038fba22b2ac822d531417b1444c3611716f94c043eed0a87a"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/crafting/apple_oak_seed.json"
+hash = "206038ade349becd2fe24930d916318366576f2428990df578e58a5387deddbc"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/copper_nugget_from_raw_copper.json"
 hash = "1179950985e632e0f18ecb151c0c1e5d04f9bc676a9edb06ce67aa563d63b350"
 
@@ -533,12 +537,16 @@ file = "kubejs/data/slimeskies/recipes/pressing/zinc_ingot.json"
 hash = "107bb166a8d5e0debaaadb836d977b1b98262cf28cf6bafa843a9d97e26cce0d"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/splashing/apple_oak_seed.json"
+hash = "7390c3ac7604525eef950e15e428aa06d2ad94c1d54f6f45968e5c2b57b8c926"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/splashing/limesand.json"
 hash = "24034214e79e81cefe94ba9f6c68d62771b219ca1d9b20a194aa01ef7c1fea02"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_tweaks.js"
-hash = "77220cbdd1503f42e264c4461c38835145e7d691c5f79e89ec70adbf637df899"
+hash = "b275eecb576ebd545663c8d74f8bef019b983fad8f3b3da9f749e45db599bdbc"
 
 [[files]]
 file = "kubejs/server_scripts/replace_copper_recipes.js"

@@ -1,0 +1,5 @@
+{
+  "type": "create:splashing",
+  "ingredients": [ { "item": "minecraft:apple" } ],
+  "results": [{ "item": "dynamictrees:apple_oak_seed" }]
+}
