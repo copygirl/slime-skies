@@ -58,7 +58,7 @@ hash = "be9998575be5f453d38d3ebdd0fc60bb3136c6d41850bf9876733eb2c625f607"
 
 [[files]]
 file = "config/twerk-config.toml"
-hash = "f4653d457d5d6d18902c7b10e1c7de6007f007c6f69d07a8ad07d7f0fb14bbb6"
+hash = "328793cf6cda9e60f97fa3cef59229d7e0c8d8ce130e2e13f90e918184d0cf4e"
 
 [[files]]
 file = "defaultconfigs/ceramicbucket-server.toml"
@@ -786,7 +786,7 @@ hash = "a3ac511e2ad1c9101d4a7efc7913092914b0e3fc567ccf53c087cd5c3d1a7373"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/01_wood.json"
-hash = "da51948cffa0329315239da1eed15e6498a314a3092268aa2e2e1e7269e3304e"
+hash = "8c1f08afad6b5d0a6274cda72cd2d90a5bd5529e352449ce483f47ba5f29b936"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/02_campfire.json"
