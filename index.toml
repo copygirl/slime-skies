@@ -505,6 +505,10 @@ file = "kubejs/data/slimeskies/recipes/crafting/gold_nugget_from_raw_gold.json"
 hash = "7e8c38f0c0b34a711cdc2bb45f944f0f611b308e278180390b367e460f6f5d62"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/crafting/guide_book.json"
+hash = "a92dfd32e35cfd021d3be81a43c930d2460bd4159c22f650db9219c34929c49a"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/iron_nugget_from_raw_iron.json"
 hash = "a618c2953207ab972dce3887d4952402ce6a64862153b5b26c23aefc71ffb3d1"
 

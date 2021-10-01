@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:dried_kelp" },
+    { "item": "minecraft:dried_kelp" },
+    { "item": "minecraft:dried_kelp" },
+    { "item": "dynamictrees:oak_seed" }
+  ],
+  "result": {
+    "item": "patchouli:guide_book",
+    "nbt": "{\"patchouli:book\":\"patchouli:slime_skies_guide\"}"
+  }
+}
