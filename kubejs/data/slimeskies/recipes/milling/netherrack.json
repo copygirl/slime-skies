@@ -1,0 +1,6 @@
+{
+  "type": "create:milling",
+  "ingredients": [ { "item": "minecraft:netherrack" } ],
+  "results": [{ "item": "create:cinder_flour" }],
+  "processingTime": 250
+}

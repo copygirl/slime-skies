@@ -529,6 +529,10 @@ file = "kubejs/data/slimeskies/recipes/milling/andesite.json"
 hash = "502b05d39a9a4dea447252e7123beac1a3de9dd12134a473af76d764e9bdb05b"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/milling/netherrack.json"
+hash = "4b1e8c1050c49f17be1f63d1ca4221496680ecaae6b23f73f2abcb074aebc630"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/mixing/lava_from_magma_block.json"
 hash = "58008a71a46014c476c7e1fe6a3e6d4760eaebc16eb841bab5c98f19ae128d80"
 
