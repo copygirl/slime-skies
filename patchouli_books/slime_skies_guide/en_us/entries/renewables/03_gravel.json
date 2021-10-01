@@ -14,7 +14,7 @@
 
   "pages": [{
     "type": "patchouli:text",
-    "text": "Your very first $(thing)resource loop/$ you'll automate will require you to set up $(4)mechanical power generation/$ and craft a $(item)millstone/$, $(item)press/$ and $(item)basin/$.$(p)Check $(4)routing power/$ if you need some help connecting these components together.$(p)These machines can be operated manually by simply$(p)              $(t:32x Gravel\n32x Flint\n8x Sand)$(bold)[Requirements]/$"
+    "text": "Your very first $(thing)resource loop/$ you'll automate will require you to set up $(l:basics/02_power_generation)mechanical power generation/$ and craft a $(item)millstone/$, $(item)press/$ and $(item)basin/$.$(p)Check $(l:basics/03_routing_power)routing power/$ if you need some help connecting these components together.$(p)These machines can be operated manually by simply$(p)              $(t:32x Gravel\n32x Flint\n8x Sand)$(bold)[Requirements]/$"
   },{
     "type": "patchouli:text",
     "text": "throwing items on the $(item)millstone/$ or into the $(item)basin/$, and right-clicking to empty them. But in the long run, you will have to use Create's $(item)funnels/$ and $(item)belts/$ to automate this process.$(p)The following pages have images of some example setups to help you get going yourself.$(p)Further milling of $(item)sand/$ will yield $(item)limesand/$, which along with the other two blocks can get you $(l:renewables/05_metals)metal nuggets/$."
@@ -26,7 +26,7 @@
       "kubejs:textures/gui/guide_book/renewables/03_gravel/millstone_1.png",
       "kubejs:textures/gui/guide_book/renewables/03_gravel/millstone_2.png"
     ],
-    "text": "The $(item)millstone/$ benefits greatly from running at $(4)higher speeds/$."
+    "text": "The $(item)millstone/$ benefits greatly from running at $(l:basics/04_controlling_speed)higher speeds/$."
   },{
     "type": "patchouli:image",
     "title": "Mechanical Press",

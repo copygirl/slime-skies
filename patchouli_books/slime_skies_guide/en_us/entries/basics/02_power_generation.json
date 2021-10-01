@@ -1,0 +1,47 @@
+{
+  "name": "Power Generation",
+  "icon": "create:water_wheel",
+  "category": "patchouli:basics",
+
+  "sortnum": 2,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "To get started with anything Create, you'll first have to be able to make $(thing)mechanical power/$.$(p)Early on, you can:$(li)Use your $(bold)water/$ pool to power simple $(item)water wheels/$!$(li)Let the $(bold)wind/$ move your $(item)windmills/$! Quite powerful!$(li)The $(bold)updraft/$ created by $(item)campfires/$ can be harnessed$(br)by $(item)encased fans/$!"
+  },{
+    "type": "patchouli:text",
+    "text": "While it's technically possible to manually power machines with $(item)hand cranks/$, you're going to give yourself much more work than needed. $(bold)Automate!/$$(p)Note that you can invert the orientation of pretty much any directional Create block by sneaking as you place it.$(p)$(italic)Water, wind, fire, steam. Long ago, the four sources of powers lived in harmony, .../$ Wait, wrong franchise."
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/water_wheel",
+    "text": "Using a single water source block to wrap around a $(item)water wheel/$ causes it to rotate, creating rotational energy.$(p)One can easily stack this setup horizontally, increasing the power output linearly."
+  },{
+    "type": "patchouli:image",
+    "images": [
+      "kubejs:textures/gui/guide_book/basics/02_power_generation/water_wheel_0.png",
+      "kubejs:textures/gui/guide_book/basics/02_power_generation/water_wheel_1.png",
+      "kubejs:textures/gui/guide_book/basics/02_power_generation/water_wheel_2.png"
+    ],
+    "text": "A $(item)soul sand/$ block increases the efficiency slightly."
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/windmill_bearing",
+    "text": "With a $(item)bearing/$ and a whole bunch of $(item)sail frames/$ you can start generating power from the wind.$(p)Spanning $(item)wool/$ from your first $(l:overworld/02_birch_forest)neighboring island/$ over these improves the efficiency!"
+  },{
+    "type": "patchouli:image",
+    "images": [
+      "kubejs:textures/gui/guide_book/basics/02_power_generation/windmill_0.png",
+      "kubejs:textures/gui/guide_book/basics/02_power_generation/windmill_1.png",
+      "kubejs:textures/gui/guide_book/basics/02_power_generation/windmill_2.png"
+    ],
+    "text": "Just two stacks of $(item)sails/$ will max out your windmill."
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/encased_fan",
+    "text": "Likely not the best choice due to the cost of 4 $(item)zinc ingots/$ each, a redstone-powered $(item)fan/$ can still harness the updraft created by heat sources like $(item)campfires/$, generating a small amount of power.$(br)Better use it for $(l:basics/05_fan_crafting)crafting/$."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/02_power_generation/encased_fan_0.png" ],
+    "text": "To redstone-power it, an $(item)analog lever/$ will work, too."
+  }]
+}

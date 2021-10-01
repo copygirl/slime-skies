@@ -1,0 +1,12 @@
+{
+  "name": "Routing Power",
+  "icon": "create:belt_connector",
+  "category": "patchouli:basics",
+
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+  }]
+}

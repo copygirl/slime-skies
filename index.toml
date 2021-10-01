@@ -89,6 +89,34 @@ file = "kubejs/assets/kubejs/textures/block/zinc_ore.png"
 hash = "e0f56156726b8de1d6142d137c3ec0b32642579365f3f33626a31732370c6c2a"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/encased_fan_0.png"
+hash = "2e24b0e88b5fc610cde885a1aa6861e284e323ac3340c8f17db9fd89755a4e74"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/water_wheel_0.png"
+hash = "b2432b0ae7a0fa8d1ca030397f8091ab2305acacd3b2d79c2565f3375de65332"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/water_wheel_1.png"
+hash = "0bb0cfbea0535aef8994735fe94bec476d84e9776484cbf0d5f5cec6acbd7e3e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/water_wheel_2.png"
+hash = "60fe72e3bceeb3cf4b9c23327d2171af89960d7c36e54614e4d41f12754e79e2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/windmill_0.png"
+hash = "168494b3e539bbdef735970ac58db699facbe361322e28babc001a779b8be6f6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/windmill_1.png"
+hash = "8e0679e1bc8996e6c9984689b8a855f0677a8c2bb7aca59445902404ff80b1e3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/windmill_2.png"
+hash = "2572030b6b022e1727773f27297cf23453e36e0174282fa5419d7bb31a30bc84"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/gui/guide_book/drying_kelp.png"
 hash = "5eb9982e155edf42ea87a05fb4a09c4edfba70dae1d262b061f841e6ffd5fe13"
 
@@ -701,12 +729,16 @@ file = "patchouli_books/slime_skies_guide/book.json"
 hash = "769801700d6decc39ba81937d4f37694312d6f772afdff9a06b3a120547d1739"
 
 [[files]]
-file = "patchouli_books/slime_skies_guide/en_us/categories/challenges.json"
-hash = "50cf1b63da82bab82bb4da184cbba3c2b4fec94aa0a5938f7f9ca9b323cb1400"
+file = "patchouli_books/slime_skies_guide/en_us/categories/advanced.json"
+hash = "eaff85115a8c0ca532a7a1c69679bfaff47e809666c3a4ed53a0af790316375b"
 
 [[files]]
-file = "patchouli_books/slime_skies_guide/en_us/categories/create.json"
-hash = "922ff05dbe15cb5ec7ffd9a969e3f5fa6f94877685684f7d945cf609ca6ce9c8"
+file = "patchouli_books/slime_skies_guide/en_us/categories/basics.json"
+hash = "f899f0bac46be917b50c3afc264084c382d8330fb72d1dd16da5aa68658343bb"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/categories/challenges.json"
+hash = "6c557a3b8f4960fdc3e9df7235ec138d2c9a45532cda1d037d14a50a6ad56b42"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/end.json"
@@ -721,12 +753,32 @@ file = "patchouli_books/slime_skies_guide/en_us/categories/overworld.json"
 hash = "4bbef61c2c57a374cbf27344c84c6cb8fec02e8ed487d44dd07b2559319d4338"
 
 [[files]]
-file = "patchouli_books/slime_skies_guide/en_us/categories/placeholder.json"
-hash = "f81170681e44d8592537c9e6f8acf91b663aff800819f6a5542a645ef2ea1eb3"
+file = "patchouli_books/slime_skies_guide/en_us/categories/renewables.json"
+hash = "af1930dc9a5730ccc2a6c95c2382d7ee16dd8c00606f0c506da32dc00fe5f15d"
 
 [[files]]
-file = "patchouli_books/slime_skies_guide/en_us/categories/renewables.json"
-hash = "0762750d3e44543cb18882e708a359ff82ae76004da39fc2fbcbc4bf972c2109"
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/01_first_steps.json"
+hash = "86d6fbe395ab74dabd26e54722cf0f0238d9a43621daee18ce4587b2ab1259e5"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/02_power_generation.json"
+hash = "56dde29c8040aa44813c5c278b3be8ee36912473cbe9821a6b1b0fdf3fae0d41"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/03_routing_power.json"
+hash = "eb8b03c56c6e58aa6315c55086ad847ba70cda3500f9641c57ae92d23563112f"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/04_controlling_speed.json"
+hash = "e907c04573f5567d385574ad027c09c0f3576e9ea789caaf484c00eca2874678"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/05_fan_crafting.json"
+hash = "b215217ddf3eed796d3af0cc9489acd0470bf553ea6ffa8ec3700a5460fa7cad"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/06_brassless_filtering.json"
+hash = "330a2022dbd35f556b5c406543eb5001195c004b8c5bb16fe4253481c350db57"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/nether/01_nether_portal.json"
@@ -810,7 +862,7 @@ hash = "0f25dff170e127d07d152869d49ab082649ad2cccb5ff82b87a0772f834fa899"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/03_gravel.json"
-hash = "5628521969f101ea0beb2573aa303768a54b53cc2b1899bf485c8ff334459ec3"
+hash = "5d2ccfdba57bca1c3034114243b8602a8e466a58b04e81505e7a04e9b994ac28"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/04_dirt.json"

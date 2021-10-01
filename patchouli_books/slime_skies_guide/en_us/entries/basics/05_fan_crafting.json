@@ -1,0 +1,12 @@
+{
+  "name": "Crafting with Fans",
+  "icon": "create:encased_fan",
+  "category": "patchouli:basics",
+
+  "sortnum": 5,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+  }]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Your First Steps",
+  "icon": "minecraft:stone_pickaxe",
+  "category": "patchouli:basics",
+
+  "sortnum": 1,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "On your starting island, you'll have all the resources you need to start building your first Create machines:$(p)   $(item)Andesite/$, $(item)zinc/$ and $(item)kelp/$.$(p)Grab some wood and andesite. Make your first stone pick. With the pickaxe, you can mine the $(item)zinc ore/$, which you can craft into $(item)nuggets/$ to make your first $(item)andesite alloy/$."
+  },{
+    "type": "patchouli:text",
+    "text": "Here are a couple of tips:$(br)$(li)Check the $(bold)Renewables/$ category in this guide book for things to work towards.$(br)$(li)Use $(l:https://www.curseforge.com/minecraft/mc-mods/jei)JEI/$ to look up uses and recipes. To show Create's items, search for \"@create\".$(br)$(li)Create's $(bold)ponder/$ feature: Holding $(bold)[$(k:key.forward)]/$ on most Create items displays an interactive tutorial. Very useful!"
+  }]
+}
