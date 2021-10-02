@@ -1,11 +1,11 @@
 name = "Slime Skies"
 author = "copygirl"
-version = "0.5.4"
+version = "0.5.5"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "16956bbb397d8ab4fd4d6e60ef3ad03e5573df9223a8fc99423b319a4dd8fc13"
+hash = "666bcc0620f73b07da9abb841b051173e79ac0ff1f6d5f2c87518578f682e807"
 
 [versions]
 forge = "36.2.4"

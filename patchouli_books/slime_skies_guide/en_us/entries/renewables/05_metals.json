@@ -16,7 +16,7 @@
 
   "pages": [{
     "type": "patchouli:text",
-    "text": "Once you made a decent amount of $(item)gravel/$, $(item)sand/$ and $(item)limesand/$, you are ready to sift through these, and gain your first non-zinc $(thing)metal nuggets/$.$(p)Set up an $(item)encased fan/$ and have it blow (or suck) through water. Items in the resulting stream of water particles will slowly get washed.$(p)What are you waiting for?$(br)              $(t:8x Iron Ingot\n8x Copper Ingot\n8x Zinc Ingot)$(bold)[Requirements]/$"
+    "text": "Once you made a decent amount of $(item)gravel/$, $(item)sand/$ and $(item)limesand/$, you are ready to sift through these, and gain your first non-gold $(thing)metal nuggets/$.$(p)Set up an $(item)encased fan/$ and have it blow (or suck) through water. Items in the resulting stream of water particles will slowly get washed.$(p)What are you waiting for?$(br)              $(t:8x Iron Ingot\n8x Copper Ingot\n8x Zinc Ingot)$(bold)[Requirements]/$"
   },{
     "type": "patchouli:image",
     "title": "Encased Fan",

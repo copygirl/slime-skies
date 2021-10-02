@@ -7,6 +7,57 @@
 
   "pages": [{
     "type": "patchouli:text",
-    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+    "text": "The following options are available to route mechanical power from $(bold)A/$ to $(bold)B/$:$(br)$(li)Shafts$(li)Cogwheels$(li)Large Cogwheels$(li)Gearboxes$(li)Encased Chain Drives$(li)Mechanical Belts$(p)Each one has its particular use case, so you'll benefit"
+  },{
+    "type": "patchouli:text",
+    "text": "greatly from understanding them all, and keeping them in mind when you wish to connect your machines together.$(p)Again, this is a perfect place to use the $(bold)ponder/$ feature from Create:$(br)When you hold $(bold)[$(k:key.forward)]/$ while your mouse is over most items from Create, it opens an interface that shows you the uses of that item $(italic)interactively/$.$(p)Try it out on the items in the following pages!"
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/shaft",
+    "text": "Pretty $(italic)straight/$-forward:$(br)This most basic element simply moves power in a straight line."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/03_routing_power/shaft.png" ],
+    "text": ""
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/cogwheel",
+    "text": "Small $(item)cogwheels/$ connect to their neighbors, rotating the other direction as a result."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/03_routing_power/cogwheel.png" ],
+    "text": ""
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/large_cogwheel",
+    "text": "The $(item)large cogwheel/$ will connect to other large cogwheels to rotate 90°, as well as to smaller $(item)cogwheels/$ diagonally on the same plane, which changes the $(l:basics/04_controlling_speed)gear ratio/$.This latter mechanic will be very important very soon."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/03_routing_power/large_cogwheel.png" ],
+    "text": ""
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/gearbox",
+    "text": "If you need something more compact than $(item)large cogwheels/$, you can use $(item)gearboxes/$, which come as a horizontal and vertical variant.$(p)Opposite sides will rotate opposite directions."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/03_routing_power/gearbox.png" ],
+    "text": ""
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/encased_chain_drive",
+    "text": "When you need neighboring shafts rotating the $(italic)same/$ direction (unlike $(item)cogwheels/$), $(item)encased chain drives/$ shine.$(p)Neighboring, connected drives turn the same direction, and can even be rotated."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/03_routing_power/encased_chain_drive.png" ],
+    "text": "The only downside: You need$(br)to first $(l:renewables/05_metals)get some iron/$."
+  },{
+    "type": "patchouli:crafting",
+    "recipe": "create:crafting/kinetics/belt_connector",
+    "text": "$(item)Belts/$ have a similar use-case to $(item)encased chain drives/$, able to bridge larger distances and go diagonally up and down.$(p)However, $(item)belts/$ require power depending on their speed, unlike the previous options."
+  },{
+    "type": "patchouli:image",
+    "images": [ "kubejs:textures/gui/guide_book/basics/03_routing_power/mechanical_belt.png" ],
+    "text": "They also $(thing)move items/$ but that's less relevant in this chapter."
   }]
 }

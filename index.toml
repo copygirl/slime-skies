@@ -117,6 +117,30 @@ file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/02_power_generation/
 hash = "2572030b6b022e1727773f27297cf23453e36e0174282fa5419d7bb31a30bc84"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/cogwheel.png"
+hash = "43c0e48eec5f20126d44bd63b8cb716e2b1e8a1e18bf8a227eceaefeaec59c76"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/encased_chain_drive.png"
+hash = "88be15a794a4e674be2574248d3101cabe36de1ec6806387e523c77463b8e80e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/gearbox.png"
+hash = "51c4f9b4a3165f8c308c8b0883c0cfac4d3c1d21545e9476cda628fe501b9d31"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/large_cogwheel.png"
+hash = "9c9c5d0923856da4e8feca553bc4a32c9be41536e4dd45efc8212d3f776839cd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/mechanical_belt.png"
+hash = "ee25a2e604f836bb82bd59076c3cb26517772a89931028038ba23c669d4fff4e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/shaft.png"
+hash = "7d85f2323dba780c76a47b215003fbfe048bc9a2899404985ca96a52e0d0772f"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/gui/guide_book/drying_kelp.png"
 hash = "5eb9982e155edf42ea87a05fb4a09c4edfba70dae1d262b061f841e6ffd5fe13"
 
@@ -582,7 +606,7 @@ hash = "24034214e79e81cefe94ba9f6c68d62771b219ca1d9b20a194aa01ef7c1fea02"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_tweaks.js"
-hash = "b275eecb576ebd545663c8d74f8bef019b983fad8f3b3da9f749e45db599bdbc"
+hash = "74b79cf16094ec1fb451c61c2339a0e189d319174463ba1b295eaa79cbd72e43"
 
 [[files]]
 file = "kubejs/server_scripts/replace_copper_recipes.js"
@@ -766,7 +790,7 @@ hash = "56dde29c8040aa44813c5c278b3be8ee36912473cbe9821a6b1b0fdf3fae0d41"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/basics/03_routing_power.json"
-hash = "eb8b03c56c6e58aa6315c55086ad847ba70cda3500f9641c57ae92d23563112f"
+hash = "da9a6ccc5d9594e985bfbe0d7406ba4dddd9c800bc67be9f2db8690a7a95f336"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/basics/04_controlling_speed.json"
@@ -870,7 +894,7 @@ hash = "e136ef433ebdfb26f39a99954774809abbffefefcc978b0772974d57a8900206"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/05_metals.json"
-hash = "d4a488bf5c0c0c36298ff865063f99b56e152aa7630f33506ad8a6ac805de64d"
+hash = "3a3dd003667a9a628f4a723397470cc212f90d70cd1840761076385d249fd73a"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/06_gold.json"
