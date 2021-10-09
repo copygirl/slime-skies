@@ -7,6 +7,11 @@
 
   "pages": [{
     "type": "patchouli:text",
-    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+    "text": "By connecting the two differently-sized $(item)cogwheels/$ you can change the gear ratio, either doubling or halfing the $(thing)RPM/$ (rotations per minute).$(p)This speed will affect how fast certain machines will operate, but also their $(thing)stress impact/$.$(p)You can see this $(thing)impact/$ in the machines' tooltips. Running fast requires improved $(l:basics/02_power_generation)powergen/$."
+  },{
+    "type": "patchouli:image",
+    "title": "Different Cogwheels",
+    "images": [ "kubejs:textures/gui/guide_book/basics/04_controlling_speed.png" ],
+    "text": "For example, gearing up three times results in 8x the RPM."
   }]
 }

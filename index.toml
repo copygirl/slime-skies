@@ -141,6 +141,22 @@ file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/03_routing_power/sha
 hash = "7d85f2323dba780c76a47b215003fbfe048bc9a2899404985ca96a52e0d0772f"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/04_controlling_speed.png"
+hash = "1d824a02e902e97954e12dd2b8747f8e477ccb0bee0afe49c3012acf005065a2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/05_fan_crafting.png"
+hash = "21c6e933078bff0dcdd23f8c7d3ada58072645937cf6137ee2fe73d1e0b94b36"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/06_early_filtering/build.png"
+hash = "c0e6886fccbddf11cdfe7f93ce0fe242260d725a1a09f272a26684393c35f952"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/basics/06_early_filtering/chest.png"
+hash = "3d8a33140220962dfe5b7ee1efe0222629fe6323074ba1e84f7b4dbd2f53f299"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/gui/guide_book/drying_kelp.png"
 hash = "5eb9982e155edf42ea87a05fb4a09c4edfba70dae1d262b061f841e6ffd5fe13"
 
@@ -255,6 +271,10 @@ hash = "9e4ab54496a271d1140221172c87d96e9b3766e1f21d1d5afe1ce24a41f7d6b3"
 [[files]]
 file = "kubejs/assets/kubejs/textures/gui/guide_book/renewables/05_metals/1.png"
 hash = "76c62be2849d21d16cfeaed310780f753101c06baed90e021bbc9e947ad33406"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/renewables/06_gold.png"
+hash = "c42dfd898c90b873d1b043fed0670e83c83dd3dab939dc702629d360f9436541"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/guide_book.png"
@@ -486,7 +506,11 @@ hash = "b13a98237303c133cfd283879015918082cdaaa8fe82afd014b9ea5e617d087f"
 
 [[files]]
 file = "kubejs/data/slimeskies/advancements/renewables/05_metals.json"
-hash = "87914af00ca2b754e8054b10246224204b662baac5f005f9137cfc37760b3347"
+hash = "ff82ad63e65cbc7b0913db07d5bf2d6372547708753d4efb1472db485fe8bab1"
+
+[[files]]
+file = "kubejs/data/slimeskies/advancements/renewables/06_gold.json"
+hash = "f180f6f07e9ec6bf28ffee6aeedaf9b1dc085a560c73ef875c5a0bf9963bfe4c"
 
 [[files]]
 file = "kubejs/data/slimeskies/loot_tables/grant_guide_book.json"
@@ -794,15 +818,15 @@ hash = "da9a6ccc5d9594e985bfbe0d7406ba4dddd9c800bc67be9f2db8690a7a95f336"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/basics/04_controlling_speed.json"
-hash = "e907c04573f5567d385574ad027c09c0f3576e9ea789caaf484c00eca2874678"
+hash = "eaa3262822589504eaf7df95d0010d24002c5dc8e85e8e38c4af4df918c1b9f0"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/basics/05_fan_crafting.json"
-hash = "b215217ddf3eed796d3af0cc9489acd0470bf553ea6ffa8ec3700a5460fa7cad"
+hash = "77357b11d4800a83da6f4138e18c20ebdce9871aebc5215a8e6cdc955fff159b"
 
 [[files]]
-file = "patchouli_books/slime_skies_guide/en_us/entries/basics/06_brassless_filtering.json"
-hash = "330a2022dbd35f556b5c406543eb5001195c004b8c5bb16fe4253481c350db57"
+file = "patchouli_books/slime_skies_guide/en_us/entries/basics/06_early_filtering.json"
+hash = "fec2940a6c4b2e495f37ddf1e2f9647509169426b51ead842d40b68ceae86768"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/nether/01_nether_portal.json"
@@ -898,7 +922,7 @@ hash = "3a3dd003667a9a628f4a723397470cc212f90d70cd1840761076385d249fd73a"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/06_gold.json"
-hash = "855dc7559ea6b9f1f7e8c840ba143e86de6a10bcb04af9b75ff68207cb460980"
+hash = "88f2773204d8b0a7bef9003c5e932c87ef205b1a56f9ee1a2ae41bf7b76a68c7"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/07_brass.json"

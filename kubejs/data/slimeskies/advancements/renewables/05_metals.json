@@ -3,7 +3,7 @@
   "display": {
     "icon": { "item": "minecraft:iron_ingot" },
     "title": "Iron, Copper and Zinc",
-    "description": "Collect 8x Iron, Copper and Zinc ingots.",
+    "description": "Collect 8x Iron, Copper and Zinc Ingots.",
     "show_toast": true,
     "announce_to_chat": false
   },

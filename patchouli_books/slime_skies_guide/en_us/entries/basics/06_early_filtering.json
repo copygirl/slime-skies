@@ -1,0 +1,20 @@
+{
+  "name": "Early Filtering",
+  "icon": "create:andesite_funnel",
+  "category": "patchouli:basics",
+
+  "sortnum": 6,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "By filling up a $(item)chest/$ entirely with items that you want to be filtered (or placeholders), an $(item)andesite funnel/$ will not be able to insert items, causing them to move past it.$(p)While this is still a manual solution, which won't even work if you try to automatically empty the filtering chest, it$(br)is still useful early on, for example when $(l:renewables/03_gravel)milling gravel/$."
+  },{
+    "type": "patchouli:image",
+    "title": "Andesite Funnel",
+    "images": [
+      "kubejs:textures/gui/guide_book/basics/06_early_filtering/build.png",
+      "kubejs:textures/gui/guide_book/basics/06_early_filtering/chest.png"
+    ],
+    "text": "Later on, $(item)brass funnels/$ will be able to filter items properly."
+  }]
+}

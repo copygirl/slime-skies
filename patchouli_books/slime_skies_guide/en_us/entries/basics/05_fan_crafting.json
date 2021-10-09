@@ -7,6 +7,11 @@
 
   "pages": [{
     "type": "patchouli:text",
-    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+    "text": "Blowing (or sucking) air through certain liquids or blocks with an $(item)encased fan/$ will give you access to new types of crafting (in bulk):$(br)$(li)$(bold)Water:/$ Splashing, to wash your items from impurities.$(li)$(bold)Fire:/$ Smoking, to cook your food to perfect temperature.$(li)$(bold)Lava:/$ Blasting, to smelt pretty much anything else.$(br)This replaces your $(item)furnace/$."
+  },{
+    "type": "patchouli:image",
+    "title": "Encased Fan",
+    "images": [ "kubejs:textures/gui/guide_book/basics/05_fan_crafting.png" ],
+    "text": "The fan's speed does not affect how quickly it converts items!"
   }]
 }

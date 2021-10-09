@@ -2,9 +2,21 @@
   "name": "Gold (from Clay)",
   "icon": "minecraft:gold_ingot",
   "category": "patchouli:renewables",
+  "extra_recipe_mappings": {
+    "minecraft:gold_nugget": 0,
+    "minecraft:gold_ingot": 0
+  },
+
+  "turnin": "slimeskies:renewables/06_gold",
   "sortnum": 6,
+
   "pages": [{
     "type": "patchouli:text",
-    "text": "The guide book is still a $(bold)work in progress/$, hence this chapter has not been filled out yet. Apologies!"
+    "text": "Similarly to the $(l:renewables/05_metals)other metals/$, gold is made by splashing $(item)red sand/$ with water particles.$(p)But this is only the final step in a multi-step process:$(li)Make $(item)clay blocks/$, a by-product from splashing $(item)sand/$.$(li)$(l:basics/05_fan_crafting)Blast/$ it into $(item)terracotta/$.$(li)Mill that into $(item)red sand/$.$(p)Note that $(item)clay blocks/$ also have an alternative recipe.$(br)              $(t:8x Gold Ingot)$(bold)[Requirements]/$"
+  },{
+    "type": "patchouli:image",
+    "title": "Complicated Machine",
+    "images": [ "kubejs:textures/gui/guide_book/renewables/06_gold.png" ],
+    "text": "Gold can be used to make the $(item)wrench/$ and $(item)engineer's goggles/$."
   }]
 }
