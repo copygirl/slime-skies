@@ -9,7 +9,7 @@ Be wary, this pack is still a **work in progress!** While it should be possible 
 
 ## Download / Installation
 
-The modpack is currently only available as a **self-updating** [MultiMC] instance.
+The modpack is currently only available as a **self-updating** MultiMC instance.
 
 - Download and install [MultiMC] if you don't have it already.
 - Drag the following link into the main window of MultiMC, and press "OK".  
@@ -52,21 +52,24 @@ java -jar -Xmx4G -Xms4G forge-1.16.5-36.2.4.jar nogui
 
 ## Development
 
-Requires the [packwiz] tool, so be sure to download it first.
+To build a MultiMC instance .zip file, run [`./build_multimc.sh`](build_multimc.sh). Due to most files being served through packwiz, the .zip only needs to be updated when files in `include` or `world_template` are changed.
 
-Steps to update the modpack:
-
-- Run `packwiz update --all` to update all mods to latest.
-- Run `packwiz refresh` to update file index, necessary when modifying any files.
-- Now you can create a commit and push to the repo.
+Working on the modpack requires the [packwiz] tool, so be sure to download it first.
+```sh
+packwiz update --all # Update all mods to latest.
+packwiz refresh      # Run after modifying any files.
+git commit -a        # Now you can commit your changes..
+git push             # ..and push them to the repository.
+```
 
 If you want to do local testing:
 
-- Modify MultiMC instance's "pre-launch command" to use:  
+- Set the MultiMC instance's "pre-launch command" to:  
   `http://localhost:8080/pack.toml`
-- Run `packwiz serve` to run a simple webserver.  
-  Will also update index automatically on file changes.
-- Launch the instance and it will pull changes from your local setup.
+- Run `packwiz serve` to run a simple webserver that serves the files.  
+  This will also update index automatically on file changes.
+- Launch the instance and it will pull changes from your local setup.  
+  Note that many changes can be applied by running `/reload` in-game.
 
 
 [Minecraft]: https://minecraft.net/

@@ -1,4 +1,6 @@
 /.git/**
-/.upload/**
 /.vscode/**
 /.gitignore
+/build/**
+/include/**
+build_multimc.sh
