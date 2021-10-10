@@ -42,7 +42,7 @@ hash = "a6c57cf5065bb0b3a839762f1dde6da363ab57cbfe7f3bc1755bc1b15175a62c"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "b8a5a43aa3b57d42303be60757cc5a36766757ea23e2191e9fcbd71ccefe3a91"
+hash = "2d42c456629709b74101b7923b4f364cb7da9727f3082bdfb9cd040daa88a717"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
@@ -59,10 +59,6 @@ hash = "be9998575be5f453d38d3ebdd0fc60bb3136c6d41850bf9876733eb2c625f607"
 [[files]]
 file = "config/twerk-config.toml"
 hash = "328793cf6cda9e60f97fa3cef59229d7e0c8d8ce130e2e13f90e918184d0cf4e"
-
-[[files]]
-file = "defaultconfigs/ceramicbucket-server.toml"
-hash = "0c1ccabad4d3ca8cfa2d30e6f6a22b9905a7e44e8a8ae5f2fc56918f8609aa8e"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -517,14 +513,6 @@ file = "kubejs/data/slimeskies/loot_tables/grant_guide_book.json"
 hash = "14f350879a93d6940216c78194259d6f45b318e32297d7ab19f088e341faf91f"
 
 [[files]]
-file = "kubejs/data/slimeskies/recipes/campfire_cooking/brick.json"
-hash = "928726b366780379641940772c6a0acbc0b627751fae9884cd387dec8319334d"
-
-[[files]]
-file = "kubejs/data/slimeskies/recipes/campfire_cooking/ceramic_bucket.json"
-hash = "3789d03882d16a991e450f8c88e0c90f155b8a92c1ff10e2b9b2761da3c8b43e"
-
-[[files]]
 file = "kubejs/data/slimeskies/recipes/compacting/andesite.json"
 hash = "332046296dac27d398d0f6ec6953d6449b95c7918a90956334775ffb9e8704fc"
 
@@ -570,7 +558,7 @@ hash = "9dda1e019be779038fba22b2ac822d531417b1444c3611716f94c043eed0a87a"
 
 [[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/apple_oak_seed.json"
-hash = "206038ade349becd2fe24930d916318366576f2428990df578e58a5387deddbc"
+hash = "597c7f9be05c538bc0bd23ee683726e2c786d7b82013b70374841a7e1afad05f"
 
 [[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/copper_nugget_from_raw_copper.json"
@@ -675,11 +663,6 @@ metafile = true
 [[files]]
 file = "mods/caves-and-cliffs-backport.toml"
 hash = "cda15531d8c5854544bd7bbbf3fa14e49e54fd5f70ac6e2d9da67f8bf9c4eec6"
-metafile = true
-
-[[files]]
-file = "mods/ceramic-bucket.toml"
-hash = "54a21e3011bcedb553b4b3d3de101ae1422954ce60f669408b37ca115ab4519c"
 metafile = true
 
 [[files]]
@@ -878,7 +861,7 @@ hash = "55608863db175ef6f88747b0f1e80e20cd57f68be7008ad7a977c0bb8231222f"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/03_swamp.json"
-hash = "630816d76f95e9502da028e1e3addc859408e06919cc6f4d9396e828945cf9b5"
+hash = "b3fe83b4417b926194fcacb01cea5d29856673d393cfd8c52565044b80143df7"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_bamboo_jungle.json"

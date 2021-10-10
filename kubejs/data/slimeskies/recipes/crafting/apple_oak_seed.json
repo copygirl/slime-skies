@@ -1,12 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    [
-      { "item": "minecraft:water_bucket" },
-      { "type": "forge:nbt",
-        "item": "ceramicbucket:filled_ceramic_bucket",
-        "nbt": "{Fluid:{FluidName:\"minecraft:water\",Amount:1000}}" }
-    ],
+    { "item": "minecraft:water_bucket" },
     { "item": "minecraft:apple" }
   ],
   "result": { "item": "dynamictrees:apple_oak_seed" }
