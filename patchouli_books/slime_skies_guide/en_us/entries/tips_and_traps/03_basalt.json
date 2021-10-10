@@ -1,0 +1,17 @@
+{
+  "name": "Basalt",
+  "icon": "minecraft:basalt",
+  "category": "patchouli:tips_and_traps",
+
+  "sortnum": 3,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "Speaking of cobblestone generation, if you want $(item)basalt/$ - and you're going to need it for making $(item)deepslate/$ - you can build a very similar setup to make this Nether stone.$(p)When flowing $(item)lava/$ touches $(item)blue ice/$ while a block of $(item)soul soil/$ is waiting underneath, it will create $(item)basalt/$ instead of your usual $(item)cobblestone/$."
+  },{
+    "type": "patchouli:image",
+    "title": "Basalt Generator",
+    "images": [ "kubejs:textures/gui/guide_book/tips_and_traps/03_basalt.png" ],
+    "text": "See the $(l:tips_and_traps/02_snow_and_ice)previous entry/$ to$(br)find out how to make $(item)ice/$."
+  }]
+}

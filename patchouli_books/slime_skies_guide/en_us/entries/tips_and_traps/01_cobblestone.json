@@ -1,0 +1,15 @@
+{
+  "name": "Cobblestone",
+  "icon": "minecraft:cobblestone",
+  "category": "patchouli:tips_and_traps",
+
+  "sortnum": 1,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "If you're familiar with other SkyBlock maps, you might look into how to create a $(thing)cobblestone generator/$.$(p)However, even while there is no regular $(item)stone/$ in this world, and there's $(item)lava/$ in the Nether, you're better off skipping this for now and focusing on setting up, and then improving, the $(l:renewables/03_gravel)gravel - flint/$ resource loop instead."
+  },{
+    "type": "patchouli:text",
+    "text": "Doing this will not just get you access to more $(item)gravel/$ and $(item)flint/$ than you need, but also $(item)sand/$, which gets you access to $(l:renewables/05_metals)other metals/$, not just $(item)iron/$.$(p)The $(l:renewables/02_campfire)campfire/$ will work as an early $(item)furnace/$ replacement. Later you can use $(l:basics/05_fan_crafting)blasting/$ to cook what the $(item)campfire/$ can't.$(p)Some islands will have other stone variants, though no regular stone. These variants can be made with Create, if you want them for decoration."
+  }]
+}

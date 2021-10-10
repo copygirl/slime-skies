@@ -1,0 +1,6 @@
+{
+  "name": "Tips and Traps",
+  "icon": "kubejs:textures/gui/guide_book/icon/tips_and_traps.png",
+  "description": "Players new to the modpack or Create in general might be a little lost, or even tempted to try something that is going to lead them down the wrong path.$(p)The purpose of this category is to attempt to avoid that and push you into the right direction.",
+  "sortnum": 2
+}

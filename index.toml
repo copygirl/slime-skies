@@ -169,6 +169,10 @@ file = "kubejs/assets/kubejs/textures/gui/guide_book/icon/renewables.png"
 hash = "acec4972275d8a663723215ade8917f6b96c0a675d023df66635aa5f2b609145"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/icon/tips_and_traps.png"
+hash = "6ce2195d66b403158ac5d1f024b6693b5830f05e9a980bf1854b4f490efbcef1"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/gui/guide_book/nether/basalt_deltas.png"
 hash = "69a147ba586cbbbfa264136cb013360d0525fc253a3ac7e75fc351cda9c99379"
 
@@ -275,6 +279,10 @@ hash = "76c62be2849d21d16cfeaed310780f753101c06baed90e021bbc9e947ad33406"
 [[files]]
 file = "kubejs/assets/kubejs/textures/gui/guide_book/renewables/06_gold.png"
 hash = "c42dfd898c90b873d1b043fed0670e83c83dd3dab939dc702629d360f9436541"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/gui/guide_book/tips_and_traps/03_basalt.png"
+hash = "0016ddf79991d996a0b11f9142b02a94a744ea07cae8e3d65e789b02de13eff1"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/guide_book.png"
@@ -777,31 +785,31 @@ hash = "769801700d6decc39ba81937d4f37694312d6f772afdff9a06b3a120547d1739"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/advanced.json"
-hash = "eaff85115a8c0ca532a7a1c69679bfaff47e809666c3a4ed53a0af790316375b"
+hash = "eb0d85887b17f2a6b8e137d840c4f532ce8c231d6b31fcb9f3ad32dafa7aca40"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/basics.json"
-hash = "f899f0bac46be917b50c3afc264084c382d8330fb72d1dd16da5aa68658343bb"
-
-[[files]]
-file = "patchouli_books/slime_skies_guide/en_us/categories/challenges.json"
-hash = "6c557a3b8f4960fdc3e9df7235ec138d2c9a45532cda1d037d14a50a6ad56b42"
+hash = "da62b0369fec07cf886fd379153a99da18df589b46bea2021718f439bf293477"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/end.json"
-hash = "bcf1e2ec1e0dea4efb89e63a83e1b704175ef49e86ca7bcfee1d003d1df19985"
+hash = "fbce6df39a9695d535d2605198b8ea3d037972dfb3a2d1354af192145f060ee3"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/nether.json"
-hash = "d5fdae1466e34594ab4fb5d42b1c3ad72bca05a51bf9e934054cf326b8115b76"
+hash = "a6b4d11ef46a1210321f06097fb03ee63b0e28dd0098db789a670a3c736333b2"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/overworld.json"
-hash = "4bbef61c2c57a374cbf27344c84c6cb8fec02e8ed487d44dd07b2559319d4338"
+hash = "dc51f416b232723d42c1afe8c40aeed9263db1d4c8cb5e73133ca39cebd93aa3"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/categories/renewables.json"
-hash = "af1930dc9a5730ccc2a6c95c2382d7ee16dd8c00606f0c506da32dc00fe5f15d"
+hash = "2c44f9eca0b62a2940bebdaecc11e4a919084e05cd9992096abb45892a391911"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/categories/tips_and_traps.json"
+hash = "2182ea3ccba166758bf88bfc9345983ec316aeef5e88f7856de5a0e9daed2bf6"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/basics/01_first_steps.json"
@@ -938,6 +946,18 @@ hash = "4769a0dceb962a5aa0a49e97920d8c7de9889493748c0509dd6975d0e70ba14e"
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/renewables/10_ores.json"
 hash = "de21430cbc206d173272d9cfacdafbccc9b88f2cb7f5542799d4d85895509e5a"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/tips_and_traps/01_cobblestone.json"
+hash = "51bfba814ef07e24debda74ff0e6a5db81a6209b99db5a1a1ab7b7987a5693b0"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/tips_and_traps/02_snow_and_ice.json"
+hash = "604f4b5709ffb89fabb2c68387f3aaa4f0dd535b94f00798a6da7cfbc506af26"
+
+[[files]]
+file = "patchouli_books/slime_skies_guide/en_us/entries/tips_and_traps/03_basalt.json"
+hash = "5fdc96bbe36cdf2aec2b9b0cd345df8773c41cf61b1825b9f86160ef3a5c02fa"
 
 [[files]]
 file = "world_template/DIM-1/data/global_portal.dat"

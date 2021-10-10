@@ -1,0 +1,15 @@
+{
+  "name": "Snow and Ice",
+  "icon": "minecraft:snow_block",
+  "category": "patchouli:tips_and_traps",
+
+  "sortnum": 2,
+
+  "pages": [{
+    "type": "patchouli:text",
+    "text": "At this time, due to not all overworld islands having been completed, $(item)snow/$ is hard to come by. The only place you will be able to get it is the $(l:overworld/04_taiga)taiga island/$. During rainfall and above an altitude of 128, snow will accumulate on blocks.$(p)Thankfully, once you have your first $(item)snow blocks/$, a $(thing)snow golem/$ will provide you with more than you'll ever need."
+  },{
+    "type": "patchouli:text",
+    "text": "The adorable $(thing)snow golems/$ can be created by placing down two $(item)snow blocks/$ with a $(item)pumpkin/$ carved using $(item)shears/$ on top.$(p)Next, you can create $(item)ice/$ by compacting the blocks in a $(item)basin/$. And creating $(item)packed ice/$ is easy too - just $(l:basics/05_fan_crafting)splash/$ it with an $(item)encased fan/$.$(p)$(p)$(italic)Ice boat roads, the best invention for traveling around since the EATS road! Probably."
+  }]
+}

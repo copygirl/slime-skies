@@ -2,5 +2,5 @@
   "name": "Create Basics",
   "icon": "create:andesite_alloy",
   "description": "In the right person's hands, Create can be used to build amazing contraptions.$(p)These chapters will cover what's possible with the most basic materials available - without $(item)brass/$ or $(item)redstone/$.",
-  "sortnum": 0
+  "sortnum": 3
 }
