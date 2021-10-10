@@ -1,0 +1,8 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    { "item": "minecraft:snow_block" },
+    { "fluid": "minecraft:water", "amount": 500 }
+  ],
+  "results": [ { "item": "minecraft:ice" } ]
+}

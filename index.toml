@@ -77,6 +77,10 @@ file = "kubejs/assets/kubejs/models/item/guide_book.json"
 hash = "9311de19a694791b1b8b8dffb7ac3a11d5fbfc107ffe30de52507695a87d055c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/flint_block.png"
+hash = "1a9db578bacefc28d7be529348765fe2d8b7f616f9e09251eb0cd95d750c974b"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/raw_zinc_block.png"
 hash = "976c873ae4a877a140218e3494c95529a4c4aff10eb3d2df07de6e8f202ded9e"
 
@@ -541,6 +545,10 @@ file = "kubejs/data/slimeskies/recipes/compacting/gravel.json"
 hash = "4d9758df824967e43fda6b4ca77831a7ae7ed7cdc372b570c6068ce6bc911174"
 
 [[files]]
+file = "kubejs/data/slimeskies/recipes/compacting/ice.json"
+hash = "b3ef9b04714642459937d80d09e00ae2e1f45a969630d75617fec4f04c36d6b2"
+
+[[files]]
 file = "kubejs/data/slimeskies/recipes/compacting/iron_ore.json"
 hash = "79a3561ed06d3c1fd6ec8b3b72176e6a7176d4f187f5ee426a900dddeec5da42"
 
@@ -563,6 +571,14 @@ hash = "597c7f9be05c538bc0bd23ee683726e2c786d7b82013b70374841a7e1afad05f"
 [[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/copper_nugget_from_raw_copper.json"
 hash = "1179950985e632e0f18ecb151c0c1e5d04f9bc676a9edb06ce67aa563d63b350"
+
+[[files]]
+file = "kubejs/data/slimeskies/recipes/crafting/flint_block.json"
+hash = "c6b05560983bbf8df518dd0dd0bb47bc4b1f8196c9a99d58ef914fa6c61f69f9"
+
+[[files]]
+file = "kubejs/data/slimeskies/recipes/crafting/flint_from_block.json"
+hash = "7807d86d82ebc730d2745a58733dbd0584a3690a52bf91562463b1cd828f4f29"
 
 [[files]]
 file = "kubejs/data/slimeskies/recipes/crafting/gold_nugget_from_raw_gold.json"
@@ -638,7 +654,7 @@ hash = "ac2188bbb53203063b8ced062d26862933662c336f35479717785f59c0741638"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
-hash = "a4ed9ca7e6127fa3e81588b17992aa7580a274f0eb86d231d212a527352ecebc"
+hash = "ea8e33e70aea9ae29ded34fc9f5291474a9bd896a4feb9fad8d8699e3a2892f4"
 
 [[files]]
 file = "mods/appleskin.toml"

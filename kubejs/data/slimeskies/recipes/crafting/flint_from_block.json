@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [ { "item": "kubejs:flint_block" } ],
+  "result": { "item": "minecraft:flint", "count": 9 }
+}
