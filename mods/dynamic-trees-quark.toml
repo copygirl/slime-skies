@@ -1,14 +1,14 @@
 name = "Dynamic Trees - Quark"
-filename = "DynamicTreesQuark-1.16.5-2.1.0.jar"
+filename = "DynamicTreesQuark-1.16.5-2.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3394/610/DynamicTreesQuark-1.16.5-2.1.0.jar"
+url = "https://edge.forgecdn.net/files/3554/615/DynamicTreesQuark-1.16.5-2.1.1.jar"
 hash-format = "murmur2"
-hash = "765688862"
+hash = "3189154113"
 
 [update]
 [update.curseforge]
-file-id = 3394610
+file-id = 3554615
 project-id = 386753
 release-channel = "beta"
