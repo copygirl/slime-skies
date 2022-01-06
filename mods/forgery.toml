@@ -1,14 +1,13 @@
 name = "Forgery"
-filename = "forgery-1.16-1.3.5-rc2.jar"
+filename = "forgery-1.16-1.4.0_01.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3414/746/forgery-1.16-1.3.5-rc2.jar"
+url = "https://edge.forgecdn.net/files/3508/770/forgery-1.16-1.4.0_01.jar"
 hash-format = "murmur2"
-hash = "2698291501"
+hash = "3928431122"
 
 [update]
 [update.curseforge]
-file-id = 3414746
+file-id = 3508770
 project-id = 434087
-release-channel = "beta"

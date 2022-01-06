@@ -716,12 +716,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgery.toml"
-hash = "8ffa49657e2d2d83cb7a0364fd1af28fec324b9807ca9209fd87f5c4fbbfb730"
+hash = "63051c53421de0deaa97423b18d74d690c9b5af05a4c73844c7f45de3da774ad"
 metafile = true
 
 [[files]]
 file = "mods/immersive-portals-for-forge.toml"
-hash = "e8a525729e695f806fbe8c5febb774ea30de8ab7c9fcfe9c7be45319dd2ef83d"
+hash = "929916527784bc850fdce5303eb78402e1cb243d7844a048c54842490a082673"
 metafile = true
 
 [[files]]
