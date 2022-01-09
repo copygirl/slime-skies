@@ -666,12 +666,12 @@ hash = "ea8e33e70aea9ae29ded34fc9f5291474a9bd896a4feb9fad8d8699e3a2892f4"
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "3284c358f0206e00745c3cedecb8938d25d91df9bf266b75349668d2f142ff74"
+hash = "55873d09089ddf9d838d72796c59401b4b91d1663c0ba2e305e776c60c12a303"
 metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "79acf283d9ec1b92e8571c3d025dddf2d0a621c73fc39f52e2bbf2347dbf3cf9"
+hash = "e0c4bff6ede1b959ff04238d7b5e7393a0088185a4c2a57a66d839e15e48b4ca"
 metafile = true
 
 [[files]]
@@ -681,42 +681,42 @@ metafile = true
 
 [[files]]
 file = "mods/cavebiomeapi.toml"
-hash = "b3e5e5dc5b64a4dd8ac098611b7ddd7a8ad5b25352b4bee3ddb6f670adf4dca5"
+hash = "7b6728e8316177ca95b570993dd12c8ed3da592528213ad4060bb48f0b7a0f95"
 metafile = true
 
 [[files]]
 file = "mods/caves-and-cliffs-backport.toml"
-hash = "cda15531d8c5854544bd7bbbf3fa14e49e54fd5f70ac6e2d9da67f8bf9c4eec6"
+hash = "1541a722fd6d0e13fdf3241da4b69c69642fdfe2e864471268ae8fd2d2d6c817"
 metafile = true
 
 [[files]]
 file = "mods/create.toml"
-hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
+hash = "8094449f0e0f6997b2bbd16897bbf6c7a876ea3fc1296835c7be005735725b05"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-trees-quark.toml"
-hash = "9a40ff3604bd0f0bdaa17ca6d8fd33c795be1219672cc748539cd8172a09f5b7"
+hash = "f63d6cc52ef99b58b87c18a5b588ed0736217ec5c8ac4470ef3dcf1ab2e6c5b2"
 metafile = true
 
 [[files]]
 file = "mods/dynamictrees.toml"
-hash = "82667c7b03f00b508d81aefc5e6cc0156687270589ec0e038ffc7b2ee57250db"
+hash = "11226c65032360f1ac14a399017d29eb492b6ce2201ce09dfa414c8bdb4d3542"
 metafile = true
 
 [[files]]
 file = "mods/ferritecore.toml"
-hash = "b6481e286e28f957c75eb0b7a34ce4af856360031cdd8926a4d5da3276d0cae4"
+hash = "6caaf0a6ed4e1aaf052a6dffb8e4b9d98b4b77385e057731d7e11aa9fcb0bf83"
 metafile = true
 
 [[files]]
 file = "mods/flywheel.toml"
-hash = "7f7faf768330a6fd47e6dc9da35de6f5a5a97d109fcfd2e9f1b5323024d1ac4c"
+hash = "b4c87ba9f566849e49afc51d346d183a7bbedb3fc6f8bc2d3b8987d32e7ede1a"
 metafile = true
 
 [[files]]
 file = "mods/forgery.toml"
-hash = "63051c53421de0deaa97423b18d74d690c9b5af05a4c73844c7f45de3da774ad"
+hash = "61832e58a6ed187ee9148a31bce750fe24362a58be837320b86f27688c2536e0"
 metafile = true
 
 [[files]]
@@ -726,12 +726,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
+hash = "ffc05b94a8696cd1ffbd8f161e8098e7b3930e7db4a50a002b2b77e527e1df87"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "197224d714424c085db247187b4a8303c0be76376a712d066339d480c36c51c1"
+hash = "553d33a021f44b7133c9d15d0386adf26d3a09984eb2974237b7b2dacb7e0764"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "4467f7b112af73c8dc9ab9890dcd2a52747f3a46466d5f76778e042128748025"
+hash = "c664bf1ed9b613330cc2ecafacde860cc04a977ebfbe9f206a3764041b476edc"
 metafile = true
 
 [[files]]
@@ -756,12 +756,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
+hash = "d5fb487f95407b862ad5d7e56cc88eaff3a4b3c5733ef0c41ea03cbf2b5a2b72"
 metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "158a9c78f0366507b458633ccaefaedfec0c9985db01c75cb7a7c61ab908bcbd"
+hash = "dc5a6d67e410922282321771ee9b9f17038e3ad99ab05d68f6a3aa3a570d8c41"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.toml"
-hash = "6f556c1e1a6a77bef65a65e1ca797a15523c906bc503071dbd00b323c35fd16a"
+hash = "0edcf25f03b7b6f96ec1d3df215e2a4e9ca9e6c3772e0ef3b93792db5701f3fe"
 metafile = true
 
 [[files]]
