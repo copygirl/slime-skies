@@ -3,7 +3,7 @@
   "icon": "minecraft:sand",
   "category": "patchouli:overworld",
   "extra_recipe_mappings": {
-    "minecraft:catcus": 0,
+    "minecraft:cactus": 0,
 
     "minecraft:rabbit": 0,
     "minecraft:rabbit_foot": 0,
