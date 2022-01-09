@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8da3dbdf79ba4d3bd6b3603644a913c51bfaeb2b8991ad4e41ac9ff4f2a7cc53"
+hash = "296c6a0d96ef726863f77bcf1ead572e97d5969850b50c96b4af4e9b307a5b23"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -945,7 +945,7 @@ hash = "9fcd8769cb0fe8b509904515a367ac8257da16a67f364bbb1b383cfb179da84d"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_desert.json"
-hash = "5ebaa6230f636d3856f0001911c338dd152a6d98126c782cb277d444f656b712"
+hash = "56d182157c97125aee6b9f86365f38f996f34bc977ef30a325ad71927893c1e1"
 
 [[files]]
 file = "patchouli_books/slime_skies_guide/en_us/entries/overworld/04_river.json"
@@ -1065,7 +1065,7 @@ hash = "3589e8215cdb3daced4981deb7af0ce6e43535b990f08e5fd3b8397433ac6535"
 
 [[files]]
 file = "world_template/level.dat"
-hash = "a130827b681f60c20fe495c2b305913078fa7bca0066b487b0aa6cbdc479cbc5"
+hash = "fd623a861b95396273443f25ba8c43d25536061efb17fc999eb2d00a45484996"
 
 [[files]]
 file = "world_template/poi/r.-1.-1.mca"
