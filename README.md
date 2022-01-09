@@ -25,28 +25,39 @@ There is one copy of the world available in the singleplayer world selection scr
 
 Unfortunately, there currently is no way to update a world you've already played with new or improved world content, such as new islands. (Unless you want to go through the effort of using a 3rd party map editor such as [Amulet] to copy them in.) You've been warned about the work-in-progress nature of this pack!
 
+### Updating
+
+For some updates, we update the required Forge version. Unfortunately, packwiz is unable to update this automatically for us. So when you update the modpack, you might have to update the Forge version used by MultiMC manually. No worries though, it is very simple!
+
+- Right click the instance in MultiMC and select "Edit Instance"
+- Select the "Version" tab on the left.
+- Click the "Install Forge" button on the right.
+- Select the version found in [`pack.toml`](pack.toml), currently `36.2.23`.
+
+And you're done! Enjoy the update!
+
 
 ## Server Setup
 
-We're using [packwiz] to for developing the modpack and providing the files, such as mods, configs, the world map, ... So go ahead and grab the latest bootstrap `.jar` from its [GitHub Releases page][packwiz-releases], as well as [Forge for 1.16.5][forge-download] - the recommended version can be found in the [pack.toml](pack.toml).
+We're using [packwiz] to for developing the modpack and providing the files, such as mods, configs, the world map, ... So go ahead and grab the latest bootstrap `.jar` from its [GitHub Releases page][packwiz-releases], as well as [Forge for 1.16.5][forge-download] - the recommended version can be found in the [`pack.toml`](pack.toml).
 
 ```sh
 # Adjust if necessary, such as if a new version is available / required.
 wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
-wget https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.4/forge-1.16.5-36.2.4-installer.jar
+wget https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.23/forge-1.16.5-36.2.23-installer.jar
 
 # Download modpack files. Also run this to update.
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/copygirl/slime-skies/main/pack.toml
 
 # Download Minecraft and Forge files.
-java -jar forge-1.16.5-36.2.4-installer.jar --installServer
+java -jar forge-1.16.5-36.2.23-installer.jar --installServer
 
 # IMPORTANT! Before starting up the server, make sure
 # copy the folder `world_template` and name it `world`.
 
 # Now do the usual, accept the EULA, edit your server
 # properties, run your startup script as you're used to.
-java -jar -Xmx4G -Xms4G forge-1.16.5-36.2.4.jar nogui
+java -jar -Xmx4G -Xms4G forge-1.16.5-36.2.23.jar nogui
 ```
 
 
