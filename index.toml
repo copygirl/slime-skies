@@ -73,6 +73,54 @@ file = "docs/screenshot.png"
 hash = "08cdb5e6668518917a27571055d7ea37c0272e7c5985977bf442339219e1ad2c"
 
 [[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_one/panorama_0.png"
+hash = "0c33bbb9233f55b7f2b8cb2ea7e585d3693f9afd6649526dea6dc262ade69753"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_one/panorama_1.png"
+hash = "ce913d16adbdaa14f959dfaaee3adaf21daad033688a1cdbeb7c80369c574729"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_one/panorama_2.png"
+hash = "b1dea53db43f05cc177ce750aff8f7e61dc21b403587a27e9e4e0090912933bd"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_one/panorama_3.png"
+hash = "e5fc5c84ad05435ff112daa1bb58dcdebdd7265ac24d79ac881b4b1dcab6c4f1"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_one/panorama_4.png"
+hash = "c474826cc0b7fb4d8325b94241020bc2d5fdc0dd818490904d030f5d74405fb1"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_one/panorama_5.png"
+hash = "67004c32eae7656bed58e06b672fc90f25816fcc49fb88950e23e0ef0f9e1f4c"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_two/panorama_0.png"
+hash = "0c33bbb9233f55b7f2b8cb2ea7e585d3693f9afd6649526dea6dc262ade69753"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_two/panorama_1.png"
+hash = "ce913d16adbdaa14f959dfaaee3adaf21daad033688a1cdbeb7c80369c574729"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_two/panorama_2.png"
+hash = "b1dea53db43f05cc177ce750aff8f7e61dc21b403587a27e9e4e0090912933bd"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_two/panorama_3.png"
+hash = "e5fc5c84ad05435ff112daa1bb58dcdebdd7265ac24d79ac881b4b1dcab6c4f1"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_two/panorama_4.png"
+hash = "c474826cc0b7fb4d8325b94241020bc2d5fdc0dd818490904d030f5d74405fb1"
+
+[[files]]
+file = "kubejs/assets/cavesandcliffs/textures/gui/title/background/part_two/panorama_5.png"
+hash = "67004c32eae7656bed58e06b672fc90f25816fcc49fb88950e23e0ef0f9e1f4c"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/guide_book.json"
 hash = "9311de19a694791b1b8b8dffb7ac3a11d5fbfc107ffe30de52507695a87d055c"
 
